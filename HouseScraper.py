@@ -102,25 +102,37 @@ for page in range(2):
             addresses.append(address.text) if address else addresses.append("")
 
             # Property Type
-            propertyType = first.find('span', class_="css-693528")
+            propertyType = house.find('span', class_="css-693528")
 
             propertyType.append(
                 propertyType.text) if propertyType else propertyType.append("")
 
             # Info
-            info = first.find_all('span', class_="css-lvv8is")
+            info = house.find_all('span', class_="css-lvv8is")
 
-            if info:
-                beds = info[0].text
-                baths = info[1].text
-                parking = info[2].text
-                squareMetres = info[3].text
+            if info and len(info) == 4:
+
+                bed = info[0]
+                bath = info[1]
+                park = info[2]
+                squareMetres = info[3]
+
+                beds.append(bed.text) if bed else beds.append("")
+                baths.append(bath.text) if bath else baths.append("")
+                parking.append(park.text) if park else parking.append("")
+                size.append(
+                    squareMetres.text) if squareMetres else size.append("")
             else:
                 beds.append("")
                 baths.append("")
                 parking.append("")
                 size.append("")
 
+            # Links
+            link = (house.find('a')).get('href')
+
+            urls.append(link) if link else urls.append("")
+
     sleep(randint(1, 2))  # sleep for 1-2 seconds between each page
 
-print(addresses)
+print(urls)
