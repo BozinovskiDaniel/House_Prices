@@ -38,7 +38,7 @@ def getHouseData(propType, state):
     # Loop to scrape over pages
     numPages = 0
 
-    for page in range(1000):
+    for page in range(10000):
 
         numPages += 1
 
@@ -78,19 +78,25 @@ def getHouseData(propType, state):
 
                 # Info
                 info = house.find_all('span', class_="css-lvv8is")
+                # info2 = house.find_all('span', class_="css-1ie6g1l")
 
-                if info and len(info) == 4:
+                if info and len(info) >= 3:
 
                     bed = info[0]
                     bath = info[1]
                     park = info[2]
-                    squareMetres = info[3]
+
+                    if len(info) == 4:
+                        squareMetres = info[3]
+                        size.append(
+                            squareMetres.text) if squareMetres else size.append("")
+                    else:
+                        size.append("")
 
                     beds.append(bed.text) if bed else beds.append("")
                     baths.append(bath.text) if bath else baths.append("")
                     parking.append(park.text) if park else parking.append("")
-                    size.append(
-                        squareMetres.text) if squareMetres else size.append("")
+
                 else:
                     beds.append("")
                     baths.append("")
