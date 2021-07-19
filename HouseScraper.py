@@ -20,39 +20,6 @@ sns.set()
 agent = {
     "User-Agent": 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'}
 
-
-# url = "https://www.domain.com.au/sale/?sort=dateupdated-desc&state=nsw&page=1"
-# res = get(url, headers=agent)  # Fetch data
-
-# # Create parser
-# htmlSoup = BeautifulSoup(res.text, 'html.parser')
-
-# # houses = htmlSoup.find_all('div', class_='css-1ctih3l')
-# houses = htmlSoup.find_all('div', class_='css-qrqvvg')
-
-# first = houses[0]
-
-# price = first.find('p', class_='css-mgq8yx').text
-# # price = int(price.replace(',', '').replace('$', ''))
-
-# suburb = first.find('span', {"itemprop": "addressLocality"}).text
-# region = first.find('span', {"itemprop": "addressRegion"}).text
-# postcode = first.find('span', {"itemprop": "postalCode"}).text
-# address = first.find('span', {"itemprop": "streetAddress"}).text
-
-# propertyType = first.find('span', class_="css-693528").text
-
-# info = first.find_all('span', class_="css-lvv8is")
-
-# beds = info[0].text
-# baths = info[1].text
-# parking = info[2].text
-# squareMetres = info[3].text
-
-# for link in first.find_all('a'):
-#     print(link.get('href'))
-
-
 # Lists that will form our data frame
 prices = []
 suburbs = []
@@ -66,80 +33,88 @@ baths = []
 parking = []
 urls = []
 
-# Loop to scrape over pages
 
-numPages = 0
+def getHouseData(propType, state):
+    # Loop to scrape over pages
+    numPages = 0
 
-for page in range(1000):
+    for page in range(1000):
 
-    numPages += 1
+        numPages += 1
 
-    url = "https://www.domain.com.au/sale/?sort=dateupdated-desc&state=nsw&page=" + \
-        str(numPages)
-    res = get(url, headers=agent)  # Fetch data
+        url = f"https://www.domain.com.au/sale/?ptype={propType}&sort=dateupdated-desc&state={state}&page={numPages}"
+        res = get(url, headers=agent)  # Fetch data
 
-    htmlSoup = BeautifulSoup(res.text, 'html.parser')  # Create parser
-    houses = htmlSoup.find_all('div', class_='css-qrqvvg')  # Get houses
+        htmlSoup = BeautifulSoup(res.text, 'html.parser')  # Create parser
+        houses = htmlSoup.find_all('div', class_='css-qrqvvg')  # Get houses
 
-    if houses != []:  # If not empty
+        if houses != []:  # If not empty
 
-        # Loop over houses
-        for house in houses:
+            # Loop over houses
+            for house in houses:
 
-            # Prices
-            price = house.find('p', class_='css-mgq8yx')
+                # Prices
+                price = house.find('p', class_='css-mgq8yx')
 
-            prices.append(price.text) if price else prices.append("")
+                prices.append(price.text) if price else prices.append("")
 
-            # Location
-            suburb = house.find('span', {"itemprop": "addressLocality"})
-            region = house.find('span', {"itemprop": "addressRegion"})
-            postcode = house.find('span', {"itemprop": "postalCode"})
-            address = house.find('span', {"itemprop": "streetAddress"})
+                # Location
+                suburb = house.find('span', {"itemprop": "addressLocality"})
+                region = house.find('span', {"itemprop": "addressRegion"})
+                postcode = house.find('span', {"itemprop": "postalCode"})
+                address = house.find('span', {"itemprop": "streetAddress"})
 
-            suburbs.append(suburb.text) if suburb else suburbs.append("")
-            regions.append(region.text) if region else regions.append("")
-            pCodes.append(postcode.text) if postcode else pCodes.append("")
-            addresses.append(address.text) if address else addresses.append("")
+                suburbs.append(suburb.text) if suburb else suburbs.append("")
+                regions.append(region.text) if region else regions.append("")
+                pCodes.append(postcode.text) if postcode else pCodes.append("")
+                addresses.append(
+                    address.text) if address else addresses.append("")
 
-            # Property Type
-            propertyType = house.find('span', class_="css-693528")
+                # Property Type
+                propertyType = house.find('span', class_="css-693528")
 
-            propertyTypes.append(
-                propertyType.text) if propertyType else propertyTypes.append("")
+                propertyTypes.append(
+                    propertyType.text) if propertyType else propertyTypes.append("")
 
-            # Info
-            info = house.find_all('span', class_="css-lvv8is")
+                # Info
+                info = house.find_all('span', class_="css-lvv8is")
 
-            if info and len(info) == 4:
+                if info and len(info) == 4:
 
-                bed = info[0]
-                bath = info[1]
-                park = info[2]
-                squareMetres = info[3]
+                    bed = info[0]
+                    bath = info[1]
+                    park = info[2]
+                    squareMetres = info[3]
 
-                beds.append(bed.text) if bed else beds.append("")
-                baths.append(bath.text) if bath else baths.append("")
-                parking.append(park.text) if park else parking.append("")
-                size.append(
-                    squareMetres.text) if squareMetres else size.append("")
-            else:
-                beds.append("")
-                baths.append("")
-                parking.append("")
-                size.append("")
+                    beds.append(bed.text) if bed else beds.append("")
+                    baths.append(bath.text) if bath else baths.append("")
+                    parking.append(park.text) if park else parking.append("")
+                    size.append(
+                        squareMetres.text) if squareMetres else size.append("")
+                else:
+                    beds.append("")
+                    baths.append("")
+                    parking.append("")
+                    size.append("")
 
-            # Links
-            link = (house.find('a')).get('href')
+                # Links
+                link = (house.find('a')).get('href')
 
-            urls.append(link) if link else urls.append("")
+                urls.append(link) if link else urls.append("")
 
-    else:
-        break
+        else:
+            break
 
-    sleep(randint(1, 2))  # sleep for 1-2 seconds between each page
+        sleep(randint(1, 2))  # sleep for 1-2 seconds between each page
 
-print('You scraped {} pages containing {} properties.'.format(numPages, len(prices)))
+    print('You scraped {} pages containing {} properties.'.format(
+        numPages, len(prices)))
+
+
+getHouseData("apartment", "nsw")
+getHouseData("house", "nsw")
+getHouseData("townhouse", "nsw")
+getHouseData("retirement", "nsw")
 
 # Convert to pandas data frame and save as .csv
 cols = ['Price', 'Suburb', 'Region', 'Postcode', 'Address',
