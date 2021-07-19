@@ -5,6 +5,7 @@ Description: Scrapes House Data & saves it to a .csv file in the current reposit
 """
 
 # Imports
+import os
 from bs4 import BeautifulSoup
 from requests import get
 import pandas as pd
@@ -59,7 +60,7 @@ regions = []
 pCodes = []
 addresses = []
 size = []
-propertyType = []
+propertyTypes = []
 beds = []
 baths = []
 parking = []
@@ -69,7 +70,7 @@ urls = []
 
 numPages = 0
 
-for page in range(2):
+for page in range(1000):
 
     numPages += 1
 
@@ -104,8 +105,8 @@ for page in range(2):
             # Property Type
             propertyType = house.find('span', class_="css-693528")
 
-            propertyType.append(
-                propertyType.text) if propertyType else propertyType.append("")
+            propertyTypes.append(
+                propertyType.text) if propertyType else propertyTypes.append("")
 
             # Info
             info = house.find_all('span', class_="css-lvv8is")
@@ -133,6 +134,21 @@ for page in range(2):
 
             urls.append(link) if link else urls.append("")
 
+    else:
+        break
+
     sleep(randint(1, 2))  # sleep for 1-2 seconds between each page
 
-print(urls)
+print('You scraped {} pages containing {} properties.'.format(numPages, len(prices)))
+
+# Convert to pandas data frame and save as .csv
+cols = ['Price', 'Suburb', 'Region', 'Postcode', 'Address',
+        'Size (m^2)', 'Property Type', 'Beds', 'Baths', 'Parking', 'URL']
+
+houseData = pd.DataFrame({'Price': prices, 'Suburb': suburbs, 'Region': regions, 'Postcode': pCodes,
+                          'Address': addresses, 'Size (m^2)': size, 'Property Type': propertyTypes, 'Beds': beds,
+                          'Baths': baths, 'Parking': parking, 'URL': urls})[cols]
+
+cwd = os.getcwd()
+path = cwd + "/HouseData.csv"
+houseData.to_csv(path)

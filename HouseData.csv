@@ -1,0 +1,981 @@
+,Price,Suburb,Region,Postcode,Address,Size (m^2),Property Type,Beds,Baths,Parking,URL
+0,"$439,000 ",BLACKTOWN,NSW,2148,"6/8-10 Fourth Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/6-8-10-fourth-avenue-blacktown-nsw-2148-2017142169
+1,"PRICE RANGE: $550,000 - $575,000 ",ABERDARE,NSW,2325,"104 Congewai Street, ","1,012m² ",House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/104-congewai-street-aberdare-nsw-2325-2017142159
+2,Price On Request ,MASCOT,NSW,2020,"37 Forster  Street, ",285m² ,House,2 Beds,2 Baths,2 Parking,https://www.domain.com.au/37-forster-street-mascot-nsw-2020-2017142157
+3,"Offers over $1,300,000 ",NORTH PARRAMATTA,NSW,2151,"8/47-49 Gladstone Street, ",,Townhouse,,,,https://www.domain.com.au/8-47-49-gladstone-street-north-parramatta-nsw-2151-2017142156
+4,Expressions Of Interest ,VALENTINE,NSW,2280,"7 Keira Close, ",866m² ,House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/7-keira-close-valentine-nsw-2280-2017142150
+5,For Sale | Contact Agent ,ERSKINEVILLE,NSW,2043,"B62/57 Ashmore Street, ",,Townhouse,,,,https://www.domain.com.au/b62-57-ashmore-street-erskineville-nsw-2043-2017098524
+6,AUCTION ,ST CLAIR,NSW,2759,"3 Lorikeet Place, ",709m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/3-lorikeet-place-st-clair-nsw-2759-2017142139
+7,Auction Unless Sold Prior ,KAREELA,NSW,2232,"70 Siandra Drive, ",573m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/70-siandra-drive-kareela-nsw-2232-2017142137
+8,"$849,000 - $899,000 ",CRANEBROOK,NSW,2749,"21 Marrett Way, ",512m² ,House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/21-marrett-way-cranebrook-nsw-2749-2017142135
+9,AUCTION ,MERRYLANDS,NSW,2160,"4 Alderney Road, ",771m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/4-alderney-road-merrylands-nsw-2160-2017142133
+10,"$750,000 - $800,000 ",OLD BAR,NSW,2430,"15 Rushby Drive, ",710m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/15-rushby-drive-old-bar-nsw-2430-2017142132
+11,"Auction, Inspection available by appointment ",CAMPSIE,NSW,2194,"19 Lindsay Street, ",594m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/19-lindsay-street-campsie-nsw-2194-2017142105
+12,Online Auction 21st August 2.15pm ,LEICHHARDT,NSW,2040,"C1.603/25 Upward Street, ",103m² ,Apartment / Unit / Flat,2 Beds,2 Baths,1 Parking,https://www.domain.com.au/c1-603-25-upward-street-leichhardt-nsw-2040-2017142125
+13,For Sale | Trio Property Agency ,ERSKINEVILLE,NSW,2043,"B418/61 Ashmore Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/b418-61-ashmore-street-erskineville-nsw-2043-2017098462
+14,"$895,000 to $1,020,000 ",HOMEBUSH,NSW,2140,"11-13 & 15-17 Columbia Lane, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/11-13-15-17-columbia-lane-homebush-nsw-2140-2016913367
+15,"Price Guide $520,000 - $540,000 ",WESTMEAD,NSW,2145,"212/91c Bridge Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/212-91c-bridge-road-westmead-nsw-2145-2017142102
+16,"Price Guide $415,000 - $435,000 ",WENTWORTHVILLE,NSW,2145,"2/41-49 Lane Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-41-49-lane-street-wentworthville-nsw-2145-2017142100
+17,Forthcoming Auction ,ABBOTSFORD,NSW,2046,"10/3 Blackwall Point Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/10-3-blackwall-point-road-abbotsford-nsw-2046-2017142098
+18,"$660,000 ",COFFS HARBOUR,NSW,2450,"120 Combine St, ",702m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/120-combine-st-coffs-harbour-nsw-2450-2017142096
+19,Contact Agent ,BOWRAL,NSW,2576,"92 Merrigang Street, ",780m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/92-merrigang-street-bowral-nsw-2576-2017142090
+20,"$825,000 ",SOUTH PENRITH,NSW,2750,"13 Jason Avenue, ",,House,,,,https://www.domain.com.au/13-jason-avenue-south-penrith-nsw-2750-2017142085
+21,New To Market ,NARARA,NSW,2250,"12 Liana Close, ",,House,,,,https://www.domain.com.au/12-liana-close-narara-nsw-2250-2017142081
+22,"$320,000 ",COFFS HARBOUR,NSW,2450,"5/27 Arthur Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-27-arthur-street-coffs-harbour-nsw-2450-2017142075
+23,"Price Guide $750,000 ",MARULAN,NSW,2579,"92 Old Tallong Road, ",,Specialist Farm,,,,https://www.domain.com.au/92-old-tallong-road-marulan-nsw-2579-2017142072
+24,JUST LISTED ,COLYTON,NSW,2760,"12 Day Street, ",525m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/12-day-street-colyton-nsw-2760-2017142061
+25,AUCTION ,CURRARONG,NSW,2540,"12 Walton Way, ",481m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/12-walton-way-currarong-nsw-2540-2017142064
+26,Auction 14/08/2021 @ 1:00pm ,NORTH SYDNEY,NSW,2060,"608/28 West Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/608-28-west-street-north-sydney-nsw-2060-2017142062
+27,"$1,390,000 ",PINE RIDGE,NSW,2343,"2729 Bundella Road, ",,Rural,,,,https://www.domain.com.au/2729-bundella-road-pine-ridge-nsw-2343-2017142048
+28,For Sale ,LILYFIELD,NSW,2040,"12 Helena Street, ",259m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/12-helena-street-lilyfield-nsw-2040-2017141428
+29,"Price  $690,000 - $720,000 ",EAGLE VALE,NSW,2558,"65 Tourmaline Street, ",824m² ,House,3 Beds,1 Bath,3 Parking,https://www.domain.com.au/65-tourmaline-street-eagle-vale-nsw-2558-2017142023
+30,AUCTION ,GREYSTANES,NSW,2145,"8 Macquarie Road, ",383m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/8-macquarie-road-greystanes-nsw-2145-2017142011
+31,"$620,000 - $670,000 ",CAMBRIDGE PARK,NSW,2747,"91 Richmond Road, ",556m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/91-richmond-road-cambridge-park-nsw-2747-2017142010
+32,"Guide $300,000 ",BERKELEY VALE,NSW,2261,"167/15 Lorraine Avenue, ",,Retirement Living,,,,https://www.domain.com.au/167-15-lorraine-avenue-berkeley-vale-nsw-2261-2017142009
+33,"$930,000-$980,000 ",BROULEE,NSW,2537,"82 Heath Street, ",599m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/82-heath-street-broulee-nsw-2537-2017142008
+34,For Sale | Aldo Palermo ,MIDDLETON GRANGE,NSW,2171,"54 Bryant  Avenue, ",,Vacant land,,,,https://www.domain.com.au/54-bryant-avenue-middleton-grange-nsw-2171-2017142002
+35,"$330,000 - $360,000 ",PORT MACQUARIE,NSW,2444,"11/4 Waugh Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/11-4-waugh-street-port-macquarie-nsw-2444-2017141996
+36,"$550,000 ",BATHURST,NSW,2795,"42 Keppel Street, ",216m² ,Terrace,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/42-keppel-street-bathurst-nsw-2795-2017141995
+37,"Auction Guide $2,200,000 ",BANKSTOWN,NSW,2200,"23A Reathaven Road, ","1,030m² ",House,8 Beds,5 Baths,8 Parking,https://www.domain.com.au/23a-reathaven-road-bankstown-nsw-2200-2017141989
+38,Contact Agent ,BELLEVUE HILL,NSW,2023,"14 Lennox Street, ",704m² ,Block of Units,10 Beds,4 Baths,4 Parking,https://www.domain.com.au/14-lennox-street-bellevue-hill-nsw-2023-2017141966
+39,JUST LISTED ,FORSTER,NSW,2428,"80 The Lakes Way, ",366m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/80-the-lakes-way-forster-nsw-2428-2017141988
+40,All interest submitted prior to 5pm July 27th 2021 ,SPRINGWOOD,NSW,2777,"9 David Road East, ",796m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/9-david-road-east-springwood-nsw-2777-2017141987
+41,"GUIDE - $350,000 ",ABERMAIN,NSW,2326,"8/24 Abermain Street, ",234m² ,Villa,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/8-24-abermain-street-abermain-nsw-2326-2017141985
+42,For Sale | Time Realty ,HOMEBUSH WEST,NSW,2140,"7/5-7 Exeter Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/7-5-7-exeter-street-homebush-west-nsw-2140-2017141981
+43,Contact Agent ,WESTMEAD,NSW,2145,"3/14 Park Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-14-park-avenue-westmead-nsw-2145-2017141980
+44,"$800,000 to $850,000 ",ORAN PARK,NSW,2570,"10 Radisich Loop, ",404m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/10-radisich-loop-oran-park-nsw-2570-2017141979
+45,Auction ,GRANVILLE,NSW,2142,"124 Blaxcell Street, ",442m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/124-blaxcell-street-granville-nsw-2142-2017141976
+46,Price Guide on Request ,SYLVANIA,NSW,2224,"82-84 Princes Highway, ",,House,,,,https://www.domain.com.au/82-84-princes-highway-sylvania-nsw-2224-2017141974
+47,Price Guide on Request ,WESTON,NSW,2326,"75A & 75B Kline Street, ",729m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/75a-75b-kline-street-weston-nsw-2326-2017141970
+48,FORTHCOMING ,NARELLAN VALE,NSW,2567,"19 Atlas Way, ",,House,,,,https://www.domain.com.au/19-atlas-way-narellan-vale-nsw-2567-2017141964
+49,Just Listed ,BOWEN MOUNTAIN,NSW,2753,"233 Lieutenant Bowen Drive, ","1,789m² ",House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/233-lieutenant-bowen-drive-bowen-mountain-nsw-2753-2017141952
+50,"$1,173,800 ",GLENMORE PARK,NSW,2745,,428m² ,House & Land,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/glenmore-park-nsw-2745-2017141951
+51,"$580,000 ",DIAMOND BEACH,NSW,2430,"260 Diamond Beach Road, ",563m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/260-diamond-beach-road-diamond-beach-nsw-2430-2017141948
+52,"Price Guide $1,600,000 - $1,700,000 ",EAST CORRIMAL,NSW,2518,"45 Lake Parade, ",889m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/45-lake-parade-east-corrimal-nsw-2518-2017141947
+53,"$769,000 ",NORTH PARRAMATTA,NSW,2151,"Unit 9/42-46 Harold St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/unit-9-42-46-harold-st-north-parramatta-nsw-2151-2017141937
+54,Auction ,CROYDON,NSW,2132,"9 Cantor Street, ",,House,,,,https://www.domain.com.au/9-cantor-street-croydon-nsw-2132-2017141923
+55,Auction ,TERRIGAL,NSW,2260,"18 Hastings Road, ",827m² ,House,4 Beds,3 Baths,4 Parking,https://www.domain.com.au/18-hastings-road-terrigal-nsw-2260-2017127936
+56,"$349,000 ",GOULBURN,NSW,2580,"22 Parkside Place, ",156m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/22-parkside-place-goulburn-nsw-2580-2017141918
+57,"$219,000 ",AUBURN,NSW,2144,"133/95 Station Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/133-95-station-road-auburn-nsw-2144-2017141914
+58,"AUCTION - Bidding Guide $1,100,000 ",GREYSTANES,NSW,2145,"30 Grevillea Crescent, ",562m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/30-grevillea-crescent-greystanes-nsw-2145-2017141912
+59,AUCTION ,LAKE ILLAWARRA,NSW,2528,"55 Addison Avenue, ",695m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/55-addison-avenue-lake-illawarra-nsw-2528-2017141909
+60,Forthcoming Auction ,PORTLAND,NSW,2847,"141 McManus Road, ",40ha ,House,4 Beds,2 Baths,6 Parking,https://www.domain.com.au/141-mcmanus-road-portland-nsw-2847-2017141899
+61,Auction ,CAMPERDOWN,NSW,2050,"30 St Marys Street, ",150m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/30-st-marys-street-camperdown-nsw-2050-2017141898
+62,Auction ,OYSTER BAY,NSW,2225,"16 Loves Avenue, ",904m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/16-loves-avenue-oyster-bay-nsw-2225-2017141897
+63,Contact Agent ,LAKE CATHIE,NSW,2445,"104B Chepana  Street, ",,Townhouse,,,,https://www.domain.com.au/104b-chepana-street-lake-cathie-nsw-2445-2017141889
+64,Auction ,CORRIMAL,NSW,2518,"6 Ivor Street, ",820m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/6-ivor-street-corrimal-nsw-2518-2017141870
+65,"Price Guide $550,000 - $605,000 ",ASHTONFIELD,NSW,2323,"4 Peden Place, ",746m² ,House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/4-peden-place-ashtonfield-nsw-2323-2017141868
+66,Contact Agent ,CRESTWOOD,NSW,2620,"5 Naylor Close, ",853m² ,House,6 Beds,3 Baths,4 Parking,https://www.domain.com.au/5-naylor-close-crestwood-nsw-2620-2017136368
+67,Auction ,YAGOONA,NSW,2199,"55 Cantrell Street, ",,House,,,,https://www.domain.com.au/55-cantrell-street-yagoona-nsw-2199-2017141858
+68,"$570,000 to $620,000 ",EDGEWORTH,NSW,2285,"14 Salix Drive, ",586m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/14-salix-drive-edgeworth-nsw-2285-2017141857
+69,"$945,000 ",SUNSHINE BAY,NSW,2536,"7 Gosse Place, ",972m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-gosse-place-sunshine-bay-nsw-2536-2017141854
+70,"$1,850,000 ",SAPPHIRE BEACH,NSW,2450,"12/40 Solitary Islands Way, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/12-40-solitary-islands-way-sapphire-beach-nsw-2450-2017141853
+71,AUCTION ,MALABAR,NSW,2036,"8B Austral Street, ",,House,,,,https://www.domain.com.au/8b-austral-street-malabar-nsw-2036-2017141846
+72,Auction (Unless Sold Prior) ,SYLVANIA,NSW,2224,"5 Tomah Place, ",,House,,,,https://www.domain.com.au/5-tomah-place-sylvania-nsw-2224-2017141844
+73,"$785,000 ",ULLADULLA,NSW,2539,"8 Cooper Grove, ",647m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/8-cooper-grove-ulladulla-nsw-2539-2017141842
+74,Auction ,ULTIMO,NSW,2007,"17 Hackett Street, ",57m² ,House,2 Beds,1 Bath,− Parking,https://www.domain.com.au/17-hackett-street-ultimo-nsw-2007-2017141839
+75,"GUIDE $600,000 ",BERRIDALE,NSW,2628,"3 & 4 Berrivilla Close, ",,Semi-Detached,,,,https://www.domain.com.au/3-4-berrivilla-close-berridale-nsw-2628-2017141833
+76,"$689,000 ",ZETLAND,NSW,2017,"226/5 Defries Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/226-5-defries-avenue-zetland-nsw-2017-2017141817
+77,"GUIDE $600,000 ",BERRIDALE,NSW,2628,"9 & 10 Berrivilla Close, ",,Semi-Detached,,,,https://www.domain.com.au/9-10-berrivilla-close-berridale-nsw-2628-2017141832
+78,"GUIDE $400,000 ",BERRIDALE,NSW,2628,"11 Berrivilla  Close, ",,House,,,,https://www.domain.com.au/11-berrivilla-close-berridale-nsw-2628-2017141831
+79,"GUIDE $400,000 ",BERRIDALE,NSW,2628,"14 Berrivilla Close, ",,House,,,,https://www.domain.com.au/14-berrivilla-close-berridale-nsw-2628-2017141828
+80,"GUIDE $400,000 ",BERRIDALE,NSW,2628,"12 Berrivilla  Close, ",,House,,,,https://www.domain.com.au/12-berrivilla-close-berridale-nsw-2628-2017141826
+81,"GUIDE $400,000 ",BERRIDALE,NSW,2628,"13 Berrivilla Close, ",,House,,,,https://www.domain.com.au/13-berrivilla-close-berridale-nsw-2628-2017141825
+82,Forthcoming Auction ,MAROUBRA,NSW,2035,"17c/16-20 Hereward Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/17c-16-20-hereward-street-maroubra-nsw-2035-2017141815
+83,"$475,000 ",HEDDON GRETA,NSW,2321,"2/39 Ashton Drive, ",403m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/2-39-ashton-drive-heddon-greta-nsw-2321-2017141806
+84,"$395,000 ",CASINO,NSW,2470,"3 Barling Street, ",834m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/3-barling-street-casino-nsw-2470-2017141805
+85,"$129,000 ",WEST KEMPSEY,NSW,2440,"54 Wide Street, ",,Vacant land,,,,https://www.domain.com.au/54-wide-street-west-kempsey-nsw-2440-2017141803
+86,JUST LISTED ,ST CLAIR,NSW,2759,"27 Shearer Street, ",560m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/27-shearer-street-st-clair-nsw-2759-2017141788
+87,Contact Agent ,TERRIGAL,NSW,2260,"36 Windermere Drive, ",590m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/36-windermere-drive-terrigal-nsw-2260-2017141799
+88,JUST LISTED ,ST MARYS,NSW,2760,"11/37 - 41 Saddington Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/11-37-41-saddington-street-st-marys-nsw-2760-2017141784
+89,Contact Agent For Private Inspection ,RANDWICK,NSW,2031,"703/2 Roscrea Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/703-2-roscrea-street-randwick-nsw-2031-2017141782
+90,"Offers Over $350,000 ",NORFOLK ISLAND,NSW,2899,"92 Bullocks Hut Rd, ",,House,,,,https://www.domain.com.au/92-bullocks-hut-rd-norfolk-island-nsw-2899-2017141777
+91,Contact Agent ,CASINO,NSW,2470,"4 & 6 River Street, ","2,100m² ",Semi-Detached,12 Beds,5 Baths,4 Parking,https://www.domain.com.au/4-6-river-street-casino-nsw-2470-2017141773
+92,Expressions Of Interest ,WOOLI,NSW,2462,"14 Kendall Avenue, ",736m² ,House,5 Beds,2 Baths,− Parking,https://www.domain.com.au/14-kendall-avenue-wooli-nsw-2462-2017141770
+93,"Price indicator $485,000 ",THURGOONA,NSW,2640,"18 Adams Court, ",543m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/18-adams-court-thurgoona-nsw-2640-2017141764
+94,"$590,000 to $620,000 ",BATEHAVEN,NSW,2536,"3 Peter Crescent, ",930m² ,House,3 Beds,2 Baths,− Parking,https://www.domain.com.au/3-peter-crescent-batehaven-nsw-2536-2017141758
+95,"$948,000 ",ERMINGTON,NSW,2115,"7/718 Victoria Road, ",266m² ,Townhouse,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-718-victoria-road-ermington-nsw-2115-2017141752
+96,Auction - Contact Agent ,DRUMMOYNE,NSW,2047,"8/39-41 Collingwood Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8-39-41-collingwood-street-drummoyne-nsw-2047-2017141748
+97,"$275,000 ",ARMIDALE,NSW,2350,"101 Golgotha Street, ",511m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/101-golgotha-street-armidale-nsw-2350-2017141746
+98,"$439,000 ",GOULBURN,NSW,2580,"26 Bellevue Street, ",690m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/26-bellevue-street-goulburn-nsw-2580-2017141745
+99,"$850,000 - $890,000 ",BELLBIRD,NSW,2325,"46 Kearsley Street, ",931m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/46-kearsley-street-bellbird-nsw-2325-2017141744
+100,"$580,000 - $610,000 ",ABERDARE,NSW,2325,"56 Northcote Street, ","1,018m² ",House,3 Beds,2 Baths,6 Parking,https://www.domain.com.au/56-northcote-street-aberdare-nsw-2325-2017141743
+101,"$495,000 ",BRAIDWOOD,NSW,2622,"141 Wallace Street, ",439m² ,House,1 Bed,1 Bath,− Parking,https://www.domain.com.au/141-wallace-street-braidwood-nsw-2622-2016170730
+102,Offers To Purchase ,GOONELLABAH,NSW,2480,"112 Invercauld Road, ",1.9ha ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/112-invercauld-road-goonellabah-nsw-2480-2017141724
+103,"$590,000 - $630,000 ",AVONDALE,NSW,2530,"5/36 Avondale Road, ",,Townhouse,,,,https://www.domain.com.au/5-36-avondale-road-avondale-nsw-2530-2017141719
+104,"$670,000 - $710,000 ",HORSLEY,NSW,2530,"5 Silverwood Place, ",521m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/5-silverwood-place-horsley-nsw-2530-2017141714
+105,Auction 14 August - Unless sold prior ,DRUMMOYNE,NSW,2047,"4/90 St Georges Crescent, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-90-st-georges-crescent-drummoyne-nsw-2047-2017141709
+106,Contact Agent ,WHITEBRIDGE,NSW,2290,"3/11 Waran  Road, ",,Townhouse,,,,https://www.domain.com.au/3-11-waran-road-whitebridge-nsw-2290-2017141708
+107,Auction on Site ,EAST MAITLAND,NSW,2323,"72 Burg Street, ",607m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/72-burg-street-east-maitland-nsw-2323-2017141704
+108,"$889,500 ",LEPPINGTON,NSW,2179,"Lot 1122 Byron Road, ",308m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/lot-1122-byron-road-leppington-nsw-2179-2017141703
+109,Auction ,COOGEE,NSW,2034,"6/15 Byron Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/6-15-byron-street-coogee-nsw-2034-2017141702
+110,"$489,000 ",DENMAN,NSW,2328,"25 Ogilvie Street, ",464m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/25-ogilvie-street-denman-nsw-2328-2017035733
+111,"Buyers Guide $639,000 ",DAPTO,NSW,2530,"29 Mulda  Street, ",556m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/29-mulda-street-dapto-nsw-2530-2017141701
+112,"Auction Guide $1,650,000 to $1,815,000 ",MANLY,NSW,2095,"2/1 Addison Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-1-addison-road-manly-nsw-2095-2017141691
+113,"$349,000 ",MUSWELLBROOK,NSW,2333,"6 St Heliers Street, ",558m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/6-st-heliers-street-muswellbrook-nsw-2333-2017141682
+114,"$459,000 ",DENMAN,NSW,2328,"21 Rosemount Road, ",720m² ,House,3 Beds,1 Bath,5 Parking,https://www.domain.com.au/21-rosemount-road-denman-nsw-2328-2017141681
+115,For Sale - Contact Agent ,HEATHCOTE,NSW,2233,"319/11 Veno Street, ",113m² ,Apartment / Unit / Flat,2 Beds,2 Baths,2 Parking,https://www.domain.com.au/319-11-veno-street-heathcote-nsw-2233-2017141680
+116,PREVIEW NOW ,GOBBAGOMBALIN,NSW,2650,"3 Wallaby Street, ",,House,,,,https://www.domain.com.au/3-wallaby-street-gobbagombalin-nsw-2650-2017141675
+117,AUCTION ,PUNCHBOWL,NSW,2196,"3/4-6 Wattle Street, ",310m² ,Townhouse,3 Beds,3 Baths,2 Parking,https://www.domain.com.au/3-4-6-wattle-street-punchbowl-nsw-2196-2017141670
+118,Just Listed! ,KELLYVILLE,NSW,2155,"30 Falkirk Court, ",577m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/30-falkirk-court-kellyville-nsw-2155-2017141668
+119,"$1,375,000 - $1,425,000 ",MARSDEN PARK,NSW,2765,"2 Marsdenia Avenue, ",,House,,,,https://www.domain.com.au/2-marsdenia-avenue-marsden-park-nsw-2765-2017141661
+120,Price Guide on Request ,BRANDY HILL,NSW,2324,"22 Leumeah  Close, ",1.26ha ,House,5 Beds,2 Baths,6 Parking,https://www.domain.com.au/22-leumeah-close-brandy-hill-nsw-2324-2017141656
+121,Just Listed ,GOSFORD,NSW,2250,"15/9 Broadview Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/15-9-broadview-avenue-gosford-nsw-2250-2017141646
+122,Contact Agent ,WOLLI CREEK,NSW,2205,"1901/1 Brodie Spark Drive, ",183m² ,Apartment / Unit / Flat,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/1901-1-brodie-spark-drive-wolli-creek-nsw-2205-2017141645
+123,"$630,000 - $670,000 ",ALBION PARK,NSW,2527,"147 Terry Street, ",607m² ,House,4 Beds,1 Bath,4 Parking,https://www.domain.com.au/147-terry-street-albion-park-nsw-2527-2017141644
+124,"$195,000 ",NARRANDERA,NSW,2700,"3 Elizabeth  Street, ",613m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/3-elizabeth-street-narrandera-nsw-2700-2017141640
+125,"$850,000 ",LAWSON,NSW,2783,"60 View Street, ","2,196m² ",House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/60-view-street-lawson-nsw-2783-2017141638
+126,Auction if not sold prior ,HELENSBURGH,NSW,2508,"2/12 Walker Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-12-walker-street-helensburgh-nsw-2508-2017141635
+127,"Guide $895,000-$950,000 ",BALMORAL VILLAGE,NSW,2571,"18 Lemon Street, ","1,621m² ",House,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/18-lemon-street-balmoral-village-nsw-2571-2017141630
+128,"$595,000 ",WICKHAM,NSW,2293,"509/12 Railway Lane, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/509-12-railway-lane-wickham-nsw-2293-2017141629
+129,"$429,000 ",CASINO,NSW,2470,"23 Hotham Street, ",493m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/23-hotham-street-casino-nsw-2470-2017141606
+130,"$170,000 ",ADAMINABY,NSW,2629,"23A Baker Street, ",,Rural,,,,https://www.domain.com.au/23a-baker-street-adaminaby-nsw-2629-2017127345
+131,Contact Agent ,PARRAMATTA,NSW,2150,"6/15-17 Marsden Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/6-15-17-marsden-street-parramatta-nsw-2150-2016961668
+132,"Price Guide $800,000 - $850,000 ",TURA BEACH,NSW,2548,"26C Elizabeth Parade, ","1,719m² ",House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/26c-elizabeth-parade-tura-beach-nsw-2548-2017141597
+133,"Price Guide $850,000 ",MURWILLUMBAH,NSW,2484,"5 Woodgee, ",727m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/5-woodgee-murwillumbah-nsw-2484-2017141571
+134,New to Market ,BUTTABA,NSW,2283,"4 Hull Avenue, ",556m² ,House,3 Beds,2 Baths,3 Parking,https://www.domain.com.au/4-hull-avenue-buttaba-nsw-2283-2017141579
+135,Just Listed | Auction unless sold prior ,MIRANDA,NSW,2228,"4/289-291 The  Boulevarde, ",255m² ,Townhouse,3 Beds,3 Baths,2 Parking,https://www.domain.com.au/4-289-291-the-boulevarde-miranda-nsw-2228-2017141574
+136,Expressions of Interest ,DOONSIDE,NSW,2767,"56 Hill End Road & 41a Coveny Street, ","1,200m² ",House,6 Beds,3 Baths,4 Parking,https://www.domain.com.au/56-hill-end-road-41a-coveny-street-doonside-nsw-2767-2017141568
+137,"$750,000 - $800,000 ",ST HELENS PARK,NSW,2560,"13 Baynton Place, ",743m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/13-baynton-place-st-helens-park-nsw-2560-2017141560
+138,Auction ,TWEED HEADS WEST,NSW,2485,"2/40 Plover Place, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-40-plover-place-tweed-heads-west-nsw-2485-2017141558
+139,AUCTION ,SUTHERLAND,NSW,2232,"18/2-4 Adelong Street, ",97m² ,Apartment / Unit / Flat,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/18-2-4-adelong-street-sutherland-nsw-2232-2017141544
+140,"$750,000 - $820,000 ",HAMLYN TERRACE,NSW,2259,"7 Monarch Drive, ",666m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-monarch-drive-hamlyn-terrace-nsw-2259-2017141540
+141,"$800,000 to $880,000 ",MARYVILLE,NSW,2293,"101 Lewis Street, ",,House,,,,https://www.domain.com.au/101-lewis-street-maryville-nsw-2293-2017141535
+142,Contact Agent ,MEDOWIE,NSW,2318,"Lot 1121 Carolina Rd, ",,Vacant land,,,,https://www.domain.com.au/lot-1121-carolina-rd-medowie-nsw-2318-2017141532
+143,Contact Agent ,MEDOWIE,NSW,2318,"Lot 1117 Indigo St, ",,Vacant land,,,,https://www.domain.com.au/lot-1117-indigo-st-medowie-nsw-2318-2017141530
+144,"$784,100 ",TAHMOOR,NSW,2573,"LOT 28 PROPOSED ROAD, ",450m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-28-proposed-road-tahmoor-nsw-2573-2017141490
+145,"$722,124 ",TAHMOOR,NSW,2573,"LOT 28 Proposed Road, ",450m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-28-proposed-road-tahmoor-nsw-2573-2017141489
+146,"$877,075 ",CURRANS HILL,NSW,2567,"TBA NARELLAN RD, ",273m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/tba-narellan-rd-currans-hill-nsw-2567-2017141488
+147,"$775,525 ",CURRANS HILL,NSW,2567,"TBA Narellan Road, ",273m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/tba-narellan-road-currans-hill-nsw-2567-2017141487
+148,"$838,825 ",CURRANS HILL,NSW,2567,"TBC 359 NARELLAN ROAD, ",273m² ,House,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/tbc-359-narellan-road-currans-hill-nsw-2567-2017141486
+149,"$1,000,000 ",ULLADULLA,NSW,2539,"28 St Vincent Street, ",,Vacant land,,,,https://www.domain.com.au/28-st-vincent-street-ulladulla-nsw-2539-2017141467
+150,"$941,000 ",COBBITTY,NSW,2570,,349m² ,House & Land,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/cobbitty-nsw-2570-2017141466
+151,"$996,700 ",COBBITTY,NSW,2570,,349m² ,House & Land,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/cobbitty-nsw-2570-2017141463
+152,"$879,000 ",COBBITTY,NSW,2570,,349m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/cobbitty-nsw-2570-2017141461
+153,"$1,015,600 ",COBBITTY,NSW,2570,,383m² ,House & Land,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/cobbitty-nsw-2570-2017141459
+154,"$959,900 ",COBBITTY,NSW,2570,,383m² ,House & Land,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/cobbitty-nsw-2570-2017141458
+155,"$897,900 ",COBBITTY,NSW,2570,,383m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/cobbitty-nsw-2570-2017141457
+156,PRD Preview ,EAST MAITLAND,NSW,2323,"45 Worcester Drive, ",646m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/45-worcester-drive-east-maitland-nsw-2323-2017141452
+157,New to Market ,ORAN PARK,NSW,2570,"1E Tander Street, ",346m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/1e-tander-street-oran-park-nsw-2570-2017141451
+158,Auction If Not Sold Prior ,BEXLEY,NSW,2207,"11/4 Monomeeth Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/11-4-monomeeth-street-bexley-nsw-2207-2017141438
+159,"$699,000 ",EAGLE VALE,NSW,2558,"4 Young Place, ",597m² ,House,3 Beds,1 Bath,5 Parking,https://www.domain.com.au/4-young-place-eagle-vale-nsw-2558-2017141437
+160,Auction ,CORRIMAL,NSW,2518,"9 Meadow  Street, ",796m² ,House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/9-meadow-street-corrimal-nsw-2518-2017141436
+161,BIG BLOCK - WALK TO STATION ,KINGS PARK,NSW,2148,"27 Cobham Street, ",754m² ,Vacant land,1 Bed,1 Bath,2 Parking,https://www.domain.com.au/27-cobham-street-kings-park-nsw-2148-2017141432
+162,"$1,450,000 - $1,550,000 ",SHELL COVE,NSW,2529,"8 Huntingdale Close, ",704m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/8-huntingdale-close-shell-cove-nsw-2529-2017141423
+163,Auction ,MOOREBANK,NSW,2170,"21 Turton Road, ",483m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/21-turton-road-moorebank-nsw-2170-2017141420
+164,Auction ,TOWRADGI,NSW,2518,"159A Pioneer Road, ",333m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/159a-pioneer-road-towradgi-nsw-2518-2017141416
+165,"$970,825 ",AUSTRAL,NSW,2179,"LOT 252 GANUGAN ROAD, ",306m² ,House,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/lot-252-ganugan-road-austral-nsw-2179-2017141415
+166,"$942,325 ",AUSTRAL,NSW,2179,"LOT 252 Ganugan Road, ",306m² ,House,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/lot-252-ganugan-road-austral-nsw-2179-2017141413
+167,"$913,325 ",AUSTRAL,NSW,2179,"LOT 252 Ganugan Road, ",306m² ,House,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/lot-252-ganugan-road-austral-nsw-2179-2017141412
+168,"$886,961 ",AUSTRAL,NSW,2179,"LOT 252 Ganugan Road, ",306m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/lot-252-ganugan-road-austral-nsw-2179-2017141411
+169,"$850,986 ",AUSTRAL,NSW,2179,"252 Ganugan Road, ",306m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/252-ganugan-road-austral-nsw-2179-2017141410
+170,"$877,000 ",AUSTRAL,NSW,2179,,330m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/austral-nsw-2179-2017141409
+171,"$1,099,990 ",SCHOFIELDS,NSW,2762,,,House & Land,,,,https://www.domain.com.au/schofields-nsw-2762-2017141396
+172,Auction ,WOONONA,NSW,2517,"19 Cherry  Street, ",,House,,,,https://www.domain.com.au/19-cherry-street-woonona-nsw-2517-2017141400
+173,Contact Agent ,HAMLYN TERRACE,NSW,2259,"54 Sorrento Way, ",487m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/54-sorrento-way-hamlyn-terrace-nsw-2259-2017105016
+174,"$618,000 With Negotiable ",WOLLI CREEK,NSW,2205,"614/52-62 Arncliffe St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/614-52-62-arncliffe-st-wolli-creek-nsw-2205-2017141389
+175,BOOK A INSPECTION TODAY ! ,BOX HILL,NSW,2765,"39 Tinline Street, ",320m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/39-tinline-street-box-hill-nsw-2765-2017141364
+176,Sale by Negotiation ,NOWRA,NSW,2541,"17 Moresby Street, ",504m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/17-moresby-street-nowra-nsw-2541-2017141362
+177,JUST LISTED ,RIVERSTONE,NSW,2765,,322m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141357
+178,"$899,000 ",RIVERSTONE,NSW,2765,,322m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141356
+179,"$930,000 ",RIVERSTONE,NSW,2765,,322m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141355
+180,"$906,000 ",RIVERSTONE,NSW,2765,,322m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141354
+181,"$943,000 ",RIVERSTONE,NSW,2765,,355m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141353
+182,"$922,000 ",RIVERSTONE,NSW,2765,,322m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141352
+183,"$1,029,000 ",RIVERSTONE,NSW,2765,,305m² ,House & Land,6 Beds,4 Baths,2 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141351
+184,"$1,012,000 ",RIVERSTONE,NSW,2765,"MIRRIE STREET, ",373m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/mirrie-street-riverstone-nsw-2765-2017141349
+185,"$956,000 ",RIVERSTONE,NSW,2765,,355m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141348
+186,"$1,013,000 ",RIVERSTONE,NSW,2765,,322m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017141347
+187,Stunning 3 Bedrooms Luxury apartments ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141346
+188,1 BED + STUDY I MOVE IN SOON ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141345
+189,Stunning 3 Bedrooms Luxury apartments ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141344
+190,1 BED + STUDY I MOVE IN SOON ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141343
+191,Limited Units left ( UNDER CONSTRUCTION NOW) ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141342
+192,STUDIO APARTMENT UNDER $400K I SELLING FAST ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141341
+193,STUDIO APARTMENT UNDER $400K I SELLING FAST ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141340
+194,2+ STUDY ( SELLIG FAST - SPECTACULAR APARTMENTS ) ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141338
+195,2+ STUDY ( SELLIG FAST - SPECTACULAR APARTMENTS ) ,SCHOFIELDS,NSW,2762,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/schofields-nsw-2762-2017141337
+196,"$923,000 ",MEDOWIE,NSW,2318,,"1,011m² ",House & Land,6 Beds,3 Baths,2 Parking,https://www.domain.com.au/medowie-nsw-2318-2017141323
+197,Contact Agent ,HUNTERS HILL,NSW,2110,"48/43 Gladesville Road, ",,Retirement Living,,,,https://www.domain.com.au/48-43-gladesville-road-hunters-hill-nsw-2110-2017141314
+198,Motivated Owner Must Sale ,LIDCOMBE,NSW,2141,"2 Kingfisher St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-kingfisher-st-lidcombe-nsw-2141-2017141004
+199,Limited Time Stamp Duty Concession for FHB ,LIDCOMBE,NSW,2141,"1 Kingfisher St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-kingfisher-st-lidcombe-nsw-2141-2017141007
+200,Limited Time Stamp Duty Concession for FHB ,SYDNEY OLYMPIC PARK,NSW,2127,"29 Carter St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/29-carter-st-sydney-olympic-park-nsw-2127-2017141003
+201,Contact Agent ,SYDNEY OLYMPIC PARK,NSW,2127,"5 Hill Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-hill-road-sydney-olympic-park-nsw-2127-2017140977
+202,Just Listed  Contact Agent ,LIDCOMBE,NSW,2141,"29 Carter St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/29-carter-st-lidcombe-nsw-2141-2017141001
+203,Just Listed  Contact Agent ,LIDCOMBE,NSW,2141,"5 Hill Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-hill-road-lidcombe-nsw-2141-2017140954
+204,Limited Time for First Home Buyer Stamp Duty Free ,LIDCOMBE,NSW,2141,"2 Kingfisher St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-kingfisher-st-lidcombe-nsw-2141-2017140787
+205,Great Opportunity for First Home Buyers ,LIDCOMBE,NSW,2141,"1 Kingfisher St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-kingfisher-st-lidcombe-nsw-2141-2017140818
+206,Great Opportunity for First Home Buyers ,SYDNEY OLYMPIC PARK,NSW,2127,"29 Carter St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/29-carter-st-sydney-olympic-park-nsw-2127-2017140784
+207,Limited Time Stamp Duty Free for First Home Buyer ,LIDCOMBE,NSW,2141,"29 Carter St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/29-carter-st-lidcombe-nsw-2141-2017140782
+208,Great Opportunity  Motivated Owner  Must Sell ,SYDNEY OLYMPIC PARK,NSW,2127,"5 Hill Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-hill-road-sydney-olympic-park-nsw-2127-2017140779
+209,Great Opportunity  Motivated Owner ,LIDCOMBE,NSW,2141,"5 Hill Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-hill-road-lidcombe-nsw-2141-2017140780
+210,Great Opportunity  Motivated Owner  Must Sell ,LIDCOMBE,NSW,2141,"2 Kingfisher St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-kingfisher-st-lidcombe-nsw-2141-2017140775
+211,"$1,100,000 - $1,200,000 ",WEST WOLLONGONG,NSW,2500,"7 Poulter Street, ",514m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-poulter-street-west-wollongong-nsw-2500-2017141279
+212,Great Opportunity  Motivated Owner  Must Sell ,LIDCOMBE,NSW,2141,"1 Kingfisher St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-kingfisher-st-lidcombe-nsw-2141-2017140777
+213,Great Opportunity  Motivated Owner  Must Sell ,SYDNEY OLYMPIC PARK,NSW,2127,"29 Carter St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/29-carter-st-sydney-olympic-park-nsw-2127-2017140774
+214,Great Opportunity  Motivated Owner  Must Sell ,LIDCOMBE,NSW,2141,"29 Carter St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/29-carter-st-lidcombe-nsw-2141-2017140771
+215,Great Opportunity  Motivated Owner  Must Sell ,SYDNEY OLYMPIC PARK,NSW,2127,"5 Hill Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-hill-road-sydney-olympic-park-nsw-2127-2017140768
+216,Great Opportunity  Motivated Owner  Must Sell ,LIDCOMBE,NSW,2141,"5 Hill Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-hill-road-lidcombe-nsw-2141-2017140759
+217,"$550,000 to $575,000 ",YOOGALI,NSW,2680,"51 Bosanquet Road, ",,Rural Lifestyle Property,,,,https://www.domain.com.au/51-bosanquet-road-yoogali-nsw-2680-2017141257
+218,FORTHCOMING AUCTION | UNLESS SOLD PRIOR ,MOUNT ANNAN,NSW,2567,"34 John Hunter Grove, ",429m² ,House,4 Beds,1 Bath,1 Parking,https://www.domain.com.au/34-john-hunter-grove-mount-annan-nsw-2567-2017141245
+219,"By Appointment $650,000 ",LANE COVE NORTH,NSW,2066,"306/542 Mowbray Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/306-542-mowbray-road-lane-cove-north-nsw-2066-2017141232
+220,"FOR SALE $650,000 ",PARRAMATTA,NSW,2150,"705/36 Cowper St, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/705-36-cowper-st-parramatta-nsw-2150-2017141231
+221,Contact Agent ,HORNSBY,NSW,2077,"15/93-103 Pacific Highway, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/15-93-103-pacific-highway-hornsby-nsw-2077-2017141197
+222,"$850,000 ",GREGORY HILLS,NSW,2557,"5 Proposed road, ",300m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/5-proposed-road-gregory-hills-nsw-2557-2017141194
+223,CONTACT AGENT ,NORTH KELLYVILLE,NSW,2155,"Lot Carrawinya Crescent, ",361m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-carrawinya-crescent-north-kellyville-nsw-2155-2017141187
+224,Contact Agent ,SCHOFIELDS,NSW,2762,"Address Available On Request, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2017126560
+225,Contact Agent ,SCHOFIELDS,NSW,2762,"Address Available On Request, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2016948544
+226,Contact Agent ,SCHOFIELDS,NSW,2762,"Address Available On Request, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2017126561
+227,"Brand New 2 Bed Apartments From $550,000 ",SCHOFIELDS,NSW,2762,"Address Available On Request, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2016942813
+228,"$725,000 - BRAND NEW ",LIDCOMBE,NSW,2141,"Railway Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/railway-street-lidcombe-nsw-2141-2017141181
+229,"$995,000 ",EDEN,NSW,2551,"2 Bass St, ",684m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/2-bass-st-eden-nsw-2551-2017141180
+230,Auction ,TOWRADGI,NSW,2518,"6 Marine Parade, ",809m² ,House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/6-marine-parade-towradgi-nsw-2518-2017141176
+231,"$497,000 ",SINGLETON,NSW,2330,"5 Willcox Avenue, ",767m² ,House,5 Beds,1 Bath,2 Parking,https://www.domain.com.au/5-willcox-avenue-singleton-nsw-2330-2017141173
+232,"$585,000 ",ROSEHILL,NSW,2142,"212/3 Weston Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/212-3-weston-street-rosehill-nsw-2142-2017141167
+233,Auction ,DRUMMOYNE,NSW,2047,"5 Burnell Street, ",695m² ,House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/5-burnell-street-drummoyne-nsw-2047-2017141160
+234,New To Market! ,SPRING FARM,NSW,2570,"41 Ancona Avenue, ",450m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/41-ancona-avenue-spring-farm-nsw-2570-2017141159
+235,"$175,000 ",EAST ALBURY,NSW,2640,"4/737 East Street, ",920m² ,Apartment / Unit / Flat,1 Bed,1 Bath,1 Parking,https://www.domain.com.au/4-737-east-street-east-albury-nsw-2640-2017141158
+236,AUCTION! 21st August ,RABY,NSW,2566,"25 Mustang Drive, ",775m² ,House,6 Beds,3 Baths,2 Parking,https://www.domain.com.au/25-mustang-drive-raby-nsw-2566-2017141157
+237,"$115,000 ",GUNDAGAI,NSW,2722,"46 Punch Street, ",,Rural Lifestyle Property,,,,https://www.domain.com.au/46-punch-street-gundagai-nsw-2722-2017141146
+238,"$2,250,000 ",CASULA,NSW,2170,"4/6 Casula Road, ","2,187m² ",House,9 Beds,3 Baths,3 Parking,https://www.domain.com.au/4-6-casula-road-casula-nsw-2170-2017141147
+239,Rise Thornleigh ,THORNLEIGH,NSW,2120,"43/258 Pennant Hills Road, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/43-258-pennant-hills-road-thornleigh-nsw-2120-2017141136
+240,Contact Agent ,ROCKDALE,NSW,2216,"18/2-6 Market Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/18-2-6-market-street-rockdale-nsw-2216-2017141135
+241,Price by Negotiation ,CONJOLA PARK,NSW,2539,"17 Windemere Drive, ",803m² ,House,6 Beds,3 Baths,2 Parking,https://www.domain.com.au/17-windemere-drive-conjola-park-nsw-2539-2017141124
+242,Price by Negotiation ,MOLLYMOOK,NSW,2539,"3/77 Clyde Street, ",215m² ,Townhouse,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/3-77-clyde-street-mollymook-nsw-2539-2017141121
+243,Preview ,ASHFIELD,NSW,2131,"4/28 Tintern Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-28-tintern-road-ashfield-nsw-2131-2017141116
+244,Luxury Apartment with Roof Terrace ,CASUARINA,NSW,2487,"685 Casuarina Way, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/685-casuarina-way-casuarina-nsw-2487-2017141111
+245,"$755,000 ",BLUE HAVEN,NSW,2262,"86 Blueridge Drive, ",650m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/86-blueridge-drive-blue-haven-nsw-2262-2017016606
+246,"$860,000 to $890,000 ",GLENNING VALLEY,NSW,2261,"3 Bottlebrush Drive, ",570m² ,House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/3-bottlebrush-drive-glenning-valley-nsw-2261-2017141092
+247,Contact Agent ,CASULA,NSW,2170,"16 Casula Road, ","2,320m² ",House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/16-casula-road-casula-nsw-2170-2016893549
+248,"$369,000 ",ABERDARE,NSW,2325,"8/66-68 Greta Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8-66-68-greta-street-aberdare-nsw-2325-2017141082
+249,"$740,000 - $790,000 ",FAULCONBRIDGE,NSW,2776,"5 Statham Avenue, ",992m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/5-statham-avenue-faulconbridge-nsw-2776-2017141079
+250,New to Market ,BELIMBLA PARK,NSW,2570,"55 Binalong Road, ",,Rural,,,,https://www.domain.com.au/55-binalong-road-belimbla-park-nsw-2570-2017141071
+251,"$415,000 ",BRADBURY,NSW,2560,"8/72 Campbellfield Avenue, ",,Townhouse,,,,https://www.domain.com.au/8-72-campbellfield-avenue-bradbury-nsw-2560-2017141067
+252,"$679,000  $746,900 ",TERALBA,NSW,2284,"13. Bowline Street, ",353m² ,Villa,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/13-bowline-street-teralba-nsw-2284-2017141052
+253,"$850,000 ",YASS,NSW,2582,"Lot 253/362 Iron Mines Road, ",,Rural Lifestyle Property,,,,https://www.domain.com.au/lot-253-362-iron-mines-road-yass-nsw-2582-2017141035
+254,New to Market ,SPENCER,NSW,2775,"4684 Wisemans Ferry Road, ",,Vacant land,,,,https://www.domain.com.au/4684-wisemans-ferry-road-spencer-nsw-2775-2017141040
+255,"$750,000 - $800,000 ",SPRINGWOOD,NSW,2777,"3 Boland Avenue, ",677m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/3-boland-avenue-springwood-nsw-2777-2017141033
+256,$220000 ,NEWTON BOYD,NSW,2370,"2493 Backsmith Shop Road, ",,Rural,,,,https://www.domain.com.au/2493-backsmith-shop-road-newton-boyd-nsw-2370-2017141028
+257,"$1,041,000 ",BOX HILL,NSW,2765,,300m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/box-hill-nsw-2765-2017141025
+258,"$957,300 ",LEPPINGTON,NSW,2179,,331m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/leppington-nsw-2179-2017141021
+259,"$939,500 ",AUSTRAL,NSW,2179,"Lot 424 Warrawal Avenue, ",300m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/lot-424-warrawal-avenue-austral-nsw-2179-2017141019
+260,"PRICE GUIDE $650,000 ",CARLINGFORD,NSW,2118,"290/1-7 Thallon Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/290-1-7-thallon-street-carlingford-nsw-2118-2016988467
+261,Auction - 7th August ,REDFERN,NSW,2016,"107 Baptist Street, ",,House,,,,https://www.domain.com.au/107-baptist-street-redfern-nsw-2016-2017123169
+262,"$795,000 ",LAGUNA,NSW,2325,"Tilley Lane, ",,Rural,,,,https://www.domain.com.au/tilley-lane-laguna-nsw-2325-2017140250
+263,Just Listed ,NORTH RICHMOND,NSW,2754,"2/68 William Street, ",180m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/2-68-william-street-north-richmond-nsw-2754-2017141016
+264,Auction | Inspect by Private Appointment ,QUEENS PARK,NSW,2022,"601/129 Bronte Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/601-129-bronte-road-queens-park-nsw-2022-2017141009
+265,Auction ,ASHFIELD,NSW,2131,"16/32 Alt Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/16-32-alt-street-ashfield-nsw-2131-2017140910
+266,Contact Agent ,ROZELLE,NSW,2039,"13 Callan Street, ",224m² ,House,3 Beds,2 Baths,− Parking,https://www.domain.com.au/13-callan-street-rozelle-nsw-2039-2017140905
+267,AUCTION 28th AUG 12 Noon ,MUSWELLBROOK,NSW,2333,"99 Brook Street, ","3,372m² ",House,4 Beds,1 Bath,− Parking,https://www.domain.com.au/99-brook-street-muswellbrook-nsw-2333-2017140778
+268,"$399,000 - $410,000 ",LAKEMBA,NSW,2195,"3/50 Colin Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-50-colin-street-lakemba-nsw-2195-2017140776
+269,"$3,650,000 ",SYDNEY,NSW,2000,"Penthouse 2201/11 Alberta, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/penthouse-2201-11-alberta-sydney-nsw-2000-2017140772
+270,"$165,000 ",YOUNG,NSW,2594,"14 & 15/157 William Street, ",,Development Site,,,,https://www.domain.com.au/14-15-157-william-street-young-nsw-2594-2017140766
+271,"$771,000 ",GREGORY HILLS,NSW,2557,"Lot 6 Proposed Street, ",300m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/lot-6-proposed-street-gregory-hills-nsw-2557-2017140764
+272,CONTACT AGENT ,RHODES,NSW,2138,"206/8 Shoreline Drive, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/206-8-shoreline-drive-rhodes-nsw-2138-2017140761
+273,Contact Agent ,BLACKTOWN,NSW,2148,,"1,668m² ",House,9 Beds,3 Baths,9 Parking,https://www.domain.com.au/blacktown-nsw-2148-2017140756
+274,"$1,178,980 ",BONNYRIGG,NSW,2177,"Lot 3 265 North Liverpool Road, ",531m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-3-265-north-liverpool-road-bonnyrigg-nsw-2177-2017140754
+275,"$200,000 ",COOTAMUNDRA,NSW,2590,"4/322 Parker Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-322-parker-street-cootamundra-nsw-2590-2017140749
+276,CONTACT AGENT ,NORTH RYDE,NSW,2113,"105/9 Delhi Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/105-9-delhi-road-north-ryde-nsw-2113-2017140741
+277,AUCTION | MUST CALL TO INSPECT 1 ON 1 ,STRATHFIELD,NSW,2135,"3/12 Russell Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-12-russell-street-strathfield-nsw-2135-2017140737
+278,"$998,980 ",GREGORY HILLS,NSW,2557,"Lot 6040 Enterprise Circuit, ",324m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-6040-enterprise-circuit-gregory-hills-nsw-2557-2017140736
+279,The Pioneer  Girraween ,GIRRAWEEN,NSW,2145,"4/18 Carinya road, ",,Townhouse,,,,https://www.domain.com.au/4-18-carinya-road-girraween-nsw-2145-2017140732
+280,"$825,980 ",GREGORY HILLS,NSW,2557,"Lot 8213 Barrett Street, ",271m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/lot-8213-barrett-street-gregory-hills-nsw-2557-2017140731
+281,The Pioneer  Girraween ,GIRRAWEEN,NSW,2145,"1/18 Carinya road, ",,Townhouse,,,,https://www.domain.com.au/1-18-carinya-road-girraween-nsw-2145-2017140729
+282,Auction ,BEECHWOOD,NSW,2446,"820 Beechwood Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/820-beechwood-road-beechwood-nsw-2446-2017140730
+283,"$580,000 ",NORTH ROTHBURY,NSW,2335,"1722 Wine Country Drive, ","1,015m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/1722-wine-country-drive-north-rothbury-nsw-2335-2017140727
+284,Contact Agent ,MERIMBULA,NSW,2548,"2/23 Monaro Street, ",,House,,,,https://www.domain.com.au/2-23-monaro-street-merimbula-nsw-2548-2017140720
+285,$417 000 ,GOULBURN,NSW,2580,"22 Broughton Street, ",638m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/22-broughton-street-goulburn-nsw-2580-2017140719
+286,For Sale | By Negotiation ,SANDY POINT,NSW,2172,"108 St George Crescent, ","1,599m² ",House,2 Beds,2 Baths,4 Parking,https://www.domain.com.au/108-st-george-crescent-sandy-point-nsw-2172-2017140714
+287,Contact Agent | Private Inspection ,WATERLOO,NSW,2017,"10802/5 Sam sing st, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/10802-5-sam-sing-st-waterloo-nsw-2017-2017140704
+288,"$530,000 ",NORTH ROTHBURY,NSW,2335,"107 Triton Blvd, ",336m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/107-triton-blvd-north-rothbury-nsw-2335-2017140702
+289,JUST LISTED ,MARSDEN PARK,NSW,2765,"1 Address Upon Request, ",,Vacant land,,,,https://www.domain.com.au/1-address-upon-request-marsden-park-nsw-2765-2017140700
+290,"$629,000 - $679,000 ",CAMBRIDGE PARK,NSW,2747,"168 Oxford Street, ",,Vacant land,,,,https://www.domain.com.au/168-oxford-street-cambridge-park-nsw-2747-2017140689
+291,"$579,950 - $599,950 ",DOONSIDE,NSW,2767,"1/31 Perigee Close, ",,Villa,,,,https://www.domain.com.au/1-31-perigee-close-doonside-nsw-2767-2017140682
+292,"Auction ""Guide $765,000"" ",KOGARAH,NSW,2217,"63/8-10 Derby  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/63-8-10-derby-street-kogarah-nsw-2217-2017119158
+293,"$3,000,000 - $3,100,000 ",SYDNEY,NSW,2000,"1701/130 Elizabeth Street, ",130m² ,Apartment / Unit / Flat,2 Beds,2 Baths,1 Parking,https://www.domain.com.au/1701-130-elizabeth-street-sydney-nsw-2000-2017140680
+294,Auction ,SURRY HILLS,NSW,2010,"1C Belmore St, ",63m² ,House,1 Bed,1 Bath,− Parking,https://www.domain.com.au/1c-belmore-st-surry-hills-nsw-2010-2017140677
+295,$395.000 ,TUNCURRY,NSW,2428,"7/15 Wallis Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/7-15-wallis-street-tuncurry-nsw-2428-2017140674
+296,AUCTION | MUST CALL TO INSPECT 1 ON 1 ,BURWOOD,NSW,2134,"1068/1-3 Belmore Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1068-1-3-belmore-street-burwood-nsw-2134-2017140672
+297,"Price Guide $750,000 | MUST CALL TO INSPECT 1 ON 1 ",STRATHFIELD,NSW,2135,"38/1-4 The Crescent, ",142m² ,Apartment / Unit / Flat,2 Beds,3 Baths,2 Parking,https://www.domain.com.au/38-1-4-the-crescent-strathfield-nsw-2135-2017140671
+298,"$890,000 - $930,000 ",GLENBROOK,NSW,2773,"2/72 Levy Street, ",,Retirement Living,,,,https://www.domain.com.au/2-72-levy-street-glenbrook-nsw-2773-2017140669
+299,FOR SALE | MUST CALL TO INSPECT 1 ON 1 ,ASHFIELD,NSW,2131,"3 Frederick Street, ",,House,,,,https://www.domain.com.au/3-frederick-street-ashfield-nsw-2131-2017140665
+300,Auction ,NORTH NARRABEEN,NSW,2101,"4/1465A Pittwater  Road, ",85m² ,Apartment / Unit / Flat,1 Bed,1 Bath,− Parking,https://www.domain.com.au/4-1465a-pittwater-road-north-narrabeen-nsw-2101-2017140647
+301,"$1,000,000 - $1,100,000 ",MACQUARIE HILLS,NSW,2285,,705m² ,House,7 Beds,3 Baths,8 Parking,https://www.domain.com.au/macquarie-hills-nsw-2285-2017140543
+302,JUST LISTED| Book for Private/Virtual Inspections ,CAMBRIDGE PARK,NSW,2747,"21 DEBORAH CRESCENT, ",601m² ,House,3 Beds,1 Bath,3 Parking,https://www.domain.com.au/21-deborah-crescent-cambridge-park-nsw-2747-2017140540
+303,"$680,000 ",WESTMEAD,NSW,2145,,100m² ,Apartment / Unit / Flat,2 Beds,2 Baths,1 Parking,https://www.domain.com.au/westmead-nsw-2145-2017140526
+304,"$590,000 - $625,000 ",TURVEY PARK,NSW,2650,"23 BEAUTY POINT AVENUE, ",809m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/23-beauty-point-avenue-turvey-park-nsw-2650-2017140522
+305,Contact Agent ,CABRAMATTA,NSW,2166,,,Townhouse,,,,https://www.domain.com.au/cabramatta-nsw-2166-2017140517
+306,JUST LISTED ,PARRAMATTA,NSW,2150,"2603/29 Hunter Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2603-29-hunter-street-parramatta-nsw-2150-2017087766
+307,Register for private inspection ,SHELL COVE,NSW,2529,"6A Brookwater Crescent, ",,Duplex,,,,https://www.domain.com.au/6a-brookwater-crescent-shell-cove-nsw-2529-2017140513
+308,Contact Agent for inspection! ,MARSFIELD,NSW,2122,"12 Sobraon Road, ",580m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/12-sobraon-road-marsfield-nsw-2122-2017140508
+309,Contact Agent ,PRESTONS,NSW,2170,"36 Stansmore Avenue, ",327m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/36-stansmore-avenue-prestons-nsw-2170-2017140499
+310,Contact Agent ,BIRCHGROVE,NSW,2041,"18 Ballast Point Road, ",,House,,,,https://www.domain.com.au/18-ballast-point-road-birchgrove-nsw-2041-2017140495
+311,Auction Guide -Contact Agent ,NEWTOWN,NSW,2042,"30/3-13 Erskineville  Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/30-3-13-erskineville-road-newtown-nsw-2042-2017140481
+312,Price on request ,STANWELL PARK,NSW,2508,"107B The Drive, ",330m² ,House,3 Beds,2 Baths,3 Parking,https://www.domain.com.au/107b-the-drive-stanwell-park-nsw-2508-2017140476
+313,AUCTION | MUST CALL TO INSPECT 1 ON 1 ,PANANIA,NSW,2213,"6A Marong Street, ",,Semi-Detached,,,,https://www.domain.com.au/6a-marong-street-panania-nsw-2213-2017140465
+314,Full Turnkey package in the Heart of Werrington ,WERRINGTON,NSW,2747,"Rance Road, ",225m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/rance-road-werrington-nsw-2747-2017140463
+315,$980000 negotiable ,TABULAM,NSW,2469,"642 tabulam road, ",,Rural,,,,https://www.domain.com.au/642-tabulam-road-tabulam-nsw-2469-2017140455
+316,New Double Storey House and Land In Schofields ,SCHOFIELDS,NSW,2762,,311m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/schofields-nsw-2762-2017140447
+317,Contact Agent ,NIMBIN,NSW,2480,"17/4 Blue Knob Road, ",,Vacant land,,,,https://www.domain.com.au/17-4-blue-knob-road-nimbin-nsw-2480-2017140452
+318,"Retirement - $680,000 ",BELLA VISTA,NSW,2153,"35/28 Norbrik Drive, ",,Retirement Living,,,,https://www.domain.com.au/35-28-norbrik-drive-bella-vista-nsw-2153-2017140449
+319,"Price Guide $980,000 ",SCHOFIELDS,NSW,2762,"18 Turrallo Circuit, ",401m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/18-turrallo-circuit-schofields-nsw-2762-2017140442
+320,New Single Storey House and Land In Schofields ,SCHOFIELDS,NSW,2762,,311m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/schofields-nsw-2762-2017140426
+321,contact agent ,BOLWARRA HEIGHTS,NSW,2320,"99 Bolwarra Park Drive, ","1,340m² ",House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/99-bolwarra-park-drive-bolwarra-heights-nsw-2320-2017140427
+322,"Price Guide $2,500,000 ",SPEERS POINT,NSW,2284,,"1,839m² ",House,7 Beds,4 Baths,3 Parking,https://www.domain.com.au/speers-point-nsw-2284-2017140425
+323,"$745,000 ",LITHGOW,NSW,2790,"50 Tweed Road, ","3,265m² ",House,6 Beds,2 Baths,− Parking,https://www.domain.com.au/50-tweed-road-lithgow-nsw-2790-2017140422
+324,New Double Storey House and Land In North Kellyville ,NORTH KELLYVILLE,NSW,2155,,360m² ,House & Land,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/north-kellyville-nsw-2155-2017140413
+325,EXPRESSIONS OF INTEREST ,POKOLBIN,NSW,2320,"657 McDonalds Road, ",,Rural,,,,https://www.domain.com.au/657-mcdonalds-road-pokolbin-nsw-2320-2017140410
+326,"Buyers guide $1,300,000 ",DARLING POINT,NSW,2027,"81/11 Yarranabbe Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/81-11-yarranabbe-road-darling-point-nsw-2027-2017140407
+327,Display Open - Inspection By Appointment Only ,BOX HILL,NSW,2765,"PRIDHAM AVENUE, ",400m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/pridham-avenue-box-hill-nsw-2765-2017140403
+328,Display Open - Inspection By Appointment Only ,BOX HILL,NSW,2765,"PRIDHAM AVENUE, ",400m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/pridham-avenue-box-hill-nsw-2765-2017140396
+329,New Single Storey House and Land In North Kellyville ,NORTH KELLYVILLE,NSW,2155,,360m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/north-kellyville-nsw-2155-2017140392
+330,"$992,000 ",BOX HILL,NSW,2765,"MANSO CRESCENT, ",259m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/manso-crescent-box-hill-nsw-2765-2017140388
+331,Preview ,WALLSEND,NSW,2287,"16 Peters Avenue, ",,House,,,,https://www.domain.com.au/16-peters-avenue-wallsend-nsw-2287-2017140386
+332,"$929,000 ",BOX HILL,NSW,2765,"MANSO CRESCENT, ",259m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/manso-crescent-box-hill-nsw-2765-2017140384
+333,JUST LISTED - CONTACT BHARGAV ,BOX HILL,NSW,2765,"MAREEBA STREET, ",300m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/mareeba-street-box-hill-nsw-2765-2017140382
+334,PROPERTY PREVIEW ,EAST MAITLAND,NSW,2323,"13 Leonard Close, ",712m² ,House,7 Beds,3 Baths,2 Parking,https://www.domain.com.au/13-leonard-close-east-maitland-nsw-2323-2017140381
+335,"$1,019,000 ",BOX HILL,NSW,2765,"MANSO CRESCENT, ",300m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/manso-crescent-box-hill-nsw-2765-2017140380
+336,PROPERTY PREVIEW ,BERESFIELD,NSW,2322,"91 Beresford Avenue, ",645m² ,House,4 Beds,2 Baths,5 Parking,https://www.domain.com.au/91-beresford-avenue-beresfield-nsw-2322-2017140376
+337,PROPERTY PREVIEW ,KURRI KURRI,NSW,2327,"56 Mitchell Avenue, ",601m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/56-mitchell-avenue-kurri-kurri-nsw-2327-2017140375
+338,PROPERTY PREVIEW ,ABERGLASSLYN,NSW,2320,"13 Dove Street, ",613m² ,House,4 Beds,2 Baths,6 Parking,https://www.domain.com.au/13-dove-street-aberglasslyn-nsw-2320-2017140372
+339,Forthcoming Auction ,BEECROFT,NSW,2119,"175 Copeland Road East, ","1,000m² ",House,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/175-copeland-road-east-beecroft-nsw-2119-2017140368
+340,Price Guide On Request ,MEREWETHER,NSW,2291,"32 Janet Street, ",918m² ,House,5 Beds,3 Baths,3 Parking,https://www.domain.com.au/32-janet-street-merewether-nsw-2291-2017140367
+341,PROPERTY PREVIEW ,RUTHERFORD,NSW,2320,"5 Ryan Street, ",645m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/5-ryan-street-rutherford-nsw-2320-2017140365
+342,PROPERTY PREVIEW ,CLIFTLEIGH,NSW,2321,"3 Brokenwood Avenue, ",606m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/3-brokenwood-avenue-cliftleigh-nsw-2321-2017140364
+343,Auction ,THIRROUL,NSW,2515,"4/5 Station Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-5-station-street-thirroul-nsw-2515-2017140361
+344,PROPERTY PREVIEW ,LARGS,NSW,2320,"8 Radiant Avenue, ",733m² ,House,3 Beds,2 Baths,3 Parking,https://www.domain.com.au/8-radiant-avenue-largs-nsw-2320-2017140358
+345,AUCTION ,DARLINGHURST,NSW,2010,"3704/184 Forbes Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3704-184-forbes-street-darlinghurst-nsw-2010-2017140356
+346,"$350,000 - $380,000 ",MONKERAI,NSW,2415,,,House,,,,https://www.domain.com.au/monkerai-nsw-2415-2017140348
+347,"From $675,000 ",JINDERA,NSW,2642,"Lot 120 Terlich Way, ","2,022m² ",House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-120-terlich-way-jindera-nsw-2642-2017140345
+348,$1.1M TO $1.16M  TORRENS TITLE ,LIDCOMBE,NSW,2141,"22 Grevillea Cres, ",,Semi-Detached,,,,https://www.domain.com.au/22-grevillea-cres-lidcombe-nsw-2141-2017140340
+349,View by appointment ,NORTH ROCKS,NSW,2151,"80 Speers Road, ",721m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/80-speers-road-north-rocks-nsw-2151-2017140343
+350,"Buyers guide $1,600,000 ",WOLLSTONECRAFT,NSW,2065,"10/3-9 Lamont Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/10-3-9-lamont-street-wollstonecraft-nsw-2065-2017140333
+351,Just Listed ,ROPES CROSSING,NSW,2760,"205/5 Dunlop Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/205-5-dunlop-avenue-ropes-crossing-nsw-2760-2017140326
+352,"$399,990 - Inspection By Appointment Only ",WENTWORTHVILLE,NSW,2145,"G04/31C Garfield Street, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/g04-31c-garfield-street-wentworthville-nsw-2145-2017140319
+353,Just Listed ,BRAY PARK,NSW,2484,"8 Park Avenue, ",582m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/8-park-avenue-bray-park-nsw-2484-2017140316
+354,FOR SALE ,THURGOONA,NSW,2640,"8 The Copse, ","1,125m² ",House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/8-the-copse-thurgoona-nsw-2640-2017140315
+355,Rouse Hill ’s Premier New  Address ,ROUSE HILL,NSW,2155,"E902/56 Cudgegong Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/e902-56-cudgegong-road-rouse-hill-nsw-2155-2017140314
+356,"Blocks start at $249,000 ",NIMBIN,NSW,2480,"New Stage- Blue Knob  Road, ",,Vacant land,,,,https://www.domain.com.au/new-stage-blue-knob-road-nimbin-nsw-2480-2017140311
+357,Contact Agent ,SYDNEY,NSW,2000,"16.0x/115 Bathurst Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/16-0x-115-bathurst-street-sydney-nsw-2000-2017139785
+358,Auction | Must be SOLD! ,NORTH RICHMOND,NSW,2754,"11 Townsend Rd, ",798m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/11-townsend-rd-north-richmond-nsw-2754-2017140301
+359,Auction 7 August ,BRONTE,NSW,2024,"432 Bronte Road, ",354m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/432-bronte-road-bronte-nsw-2024-2017140298
+360,Contact Jason Taylor 0412 757 470 ,NORTH BONDI,NSW,2026,"8/92-96 Brighton Boulevard, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8-92-96-brighton-boulevard-north-bondi-nsw-2026-2017140296
+361,Price on request ,BOTANY,NSW,2019,"20/127 Banksia Street, ",125m² ,Apartment / Unit / Flat,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/20-127-banksia-street-botany-nsw-2019-2017140294
+362,Contact Agent ,SYDNEY,NSW,2000,"66.0x/115 Bathurst Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/66-0x-115-bathurst-street-sydney-nsw-2000-2017140277
+363,"$650,000 ",EMERALD BEACH,NSW,2456,"10 Bluff  Road, ",,Vacant land,,,,https://www.domain.com.au/10-bluff-road-emerald-beach-nsw-2456-2017140291
+364,"Buyer's Guide | $670,000 ",STRATHFIELD,NSW,2135,"16/11 Everton Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/16-11-everton-road-strathfield-nsw-2135-2017140289
+365,"$739,000 ",SPRINGWOOD,NSW,2777,"5/1-5 Bland Road, ",,Villa,,,,https://www.domain.com.au/5-1-5-bland-road-springwood-nsw-2777-2017140287
+366,"From $685,000 ",JINDERA,NSW,2642,"Lot 120 Terlich Way, ","2,022m² ",House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-120-terlich-way-jindera-nsw-2642-2017140284
+367,For Sale Contact Agent ,CRONULLA,NSW,2230,"13/57 Parramatta  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/13-57-parramatta-street-cronulla-nsw-2230-2017140283
+368,Forthcoming Auction - Call to Inspect! ,STRATHFIELD,NSW,2135,"8B/40-46 Mosely Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8b-40-46-mosely-street-strathfield-nsw-2135-2017140282
+369,Auction 18 Aug 2021 ,GLEN DAVIS,NSW,2846,"Lot 6 DP 861340 Crown Station Road, ",,Farm,,,,https://www.domain.com.au/lot-6-dp-861340-crown-station-road-glen-davis-nsw-2846-2017140272
+370,Contact agent to arrange private appointment ,MAROUBRA,NSW,2035,"26 Garden Street, ",278m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/26-garden-street-maroubra-nsw-2035-2017140271
+371,"$315,000 ",TAREE,NSW,2430,"4/117 Wynter Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-117-wynter-street-taree-nsw-2430-2017140270
+372,"$475,000 ",LITHGOW,NSW,2790,"35 Ordnance Avenue, ",695m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/35-ordnance-avenue-lithgow-nsw-2790-2017140267
+373,"$345,000 ",PORTLAND,NSW,2847,"39 Wolgan Street, ","1,012m² ",House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/39-wolgan-street-portland-nsw-2847-2017140265
+374,Just Listed ,MOUNT DRUITT,NSW,2770,"7 Bernard Place, ",556m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-bernard-place-mount-druitt-nsw-2770-2017140261
+375,Fantastic home - We are Selling!! ,BUNGENDORE,NSW,2621,"22 Day Cct, ","1,075m² ",House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/22-day-cct-bungendore-nsw-2621-2017140255
+376,"Sudivision Potential + $3,360 Per Month Income ",ROOTY HILL,NSW,2766,"21 Beaconsfield Road, ",730m² ,House,7 Beds,3 Baths,4 Parking,https://www.domain.com.au/21-beaconsfield-road-rooty-hill-nsw-2766-2017140254
+377,Preview ,BLACKALLS PARK,NSW,2283,,557m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/blackalls-park-nsw-2283-2017140252
+378,"$1,500,000 ",LAGUNA,NSW,2325,"179 Cagney Rd, ",,Rural,,,,https://www.domain.com.au/179-cagney-rd-laguna-nsw-2325-2017140249
+379,Preview ,TERALBA,NSW,2284,,"1,012m² ",House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/teralba-nsw-2284-2017140247
+380,Offers Invited ,BLACKTOWN,NSW,2148,"4 Kastelan Street, ",613m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/4-kastelan-street-blacktown-nsw-2148-2017140246
+381,Price on request ,MASCOT,NSW,2020,"49/109 O'Riordan  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/49-109-o-riordan-street-mascot-nsw-2020-2017140242
+382,"$1,300,000.00-$1,400,000.00 ",SCOTTS HEAD,NSW,2447,"7 Hibiscus Way Scotts Head, ",579m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/7-hibiscus-way-scotts-head-scotts-head-nsw-2447-2017140241
+383,Auction - Buyers Guide On Request ,DRUMMOYNE,NSW,2047,"3 Hinkler Court, ",,House,,,,https://www.domain.com.au/3-hinkler-court-drummoyne-nsw-2047-2017140240
+384,"$1,083,000 ",BOX HILL,NSW,2765,"MAREEBA STREET, ",323m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/mareeba-street-box-hill-nsw-2765-2017140238
+385,Auction Saturday 7th August 4.30pm ,HORNSBY,NSW,2077,"41 Ethel Street, ",714m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/41-ethel-street-hornsby-nsw-2077-2017140237
+386,Auction ,KIAMA DOWNS,NSW,2533,"Lot 12 Barton Drive, ",,Vacant land,,,,https://www.domain.com.au/lot-12-barton-drive-kiama-downs-nsw-2533-2017140235
+387,"Guide $470,000 ",WARATAH WEST,NSW,2298,"21 Parkhill Parade, ",683m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/21-parkhill-parade-waratah-west-nsw-2298-2017140229
+388,"$590,000 - $640,000 ",PENRITH,NSW,2750,"9/26-30 Barber Avenue, ",,Townhouse,,,,https://www.domain.com.au/9-26-30-barber-avenue-penrith-nsw-2750-2017140225
+389,"$825,000 ",TEA GARDENS,NSW,2324,"1 Spinifex Avenue, ",702m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/1-spinifex-avenue-tea-gardens-nsw-2324-2017140222
+390,"From $699,000 ",JINDERA,NSW,2642,"Lot 120 Terlich Way, ","2,022m² ",House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-120-terlich-way-jindera-nsw-2642-2017140221
+391,"$739,000 - $779,000 ",NORTH ST MARYS,NSW,2760,"3 Athel Street, ",689m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/3-athel-street-north-st-marys-nsw-2760-2017140220
+392,Contact Agent for Private Inspections ,HILLSDALE,NSW,2036,"3111/39 Rhodes Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3111-39-rhodes-street-hillsdale-nsw-2036-2017140213
+393,"$1,079,990 - Inspection By Appointment Only ",MARSDEN PARK,NSW,2765,"36 Westbrook Circuit, ",,House & Land,,,,https://www.domain.com.au/36-westbrook-circuit-marsden-park-nsw-2765-2017140209
+394,Just Listed ,THE PONDS,NSW,2769,"87 Beauchamp Drive, ",,House & Land,,,,https://www.domain.com.au/87-beauchamp-drive-the-ponds-nsw-2769-2017140202
+395,"$992,000 ",BOX HILL,NSW,2765,,323m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/box-hill-nsw-2765-2017140198
+396,Offers Invited ,ALBION PARK,NSW,2527,"14 Skardon Terrace, ",480m² ,House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/14-skardon-terrace-albion-park-nsw-2527-2017140197
+397,"$920,000 ",BOX HILL,NSW,2765,"ZEBU STREET, ",273m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/zebu-street-box-hill-nsw-2765-2017140195
+398,Contact Agent ,MYOCUM,NSW,2481,"688 Myocum Road, ",,Rural,,,,https://www.domain.com.au/688-myocum-road-myocum-nsw-2481-2017140193
+399,Contact Agent ,BUCKAROO,NSW,2850,"280 EDGELL LANE, ",,Rural,,,,https://www.domain.com.au/280-edgell-lane-buckaroo-nsw-2850-2017140191
+400,"$949,000 ",BOX HILL,NSW,2765,,273m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/box-hill-nsw-2765-2017140189
+401,PREVIEW ,BOLTON POINT,NSW,2283,,639m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/bolton-point-nsw-2283-2017140188
+402,"$389,000 ",WALLA WALLA,NSW,2659,"12 Herman Street, ","1,012m² ",Block of Units,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/12-herman-street-walla-walla-nsw-2659-2017140187
+403,OFFERS INVITED ,HARRINGTON,NSW,2427,"58 Pretoria Parade, ",547m² ,House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/58-pretoria-parade-harrington-nsw-2427-2017140176
+404,Contact Agent ,NORTH NOWRA,NSW,2541,"61 Illaroo Road, ",809m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/61-illaroo-road-north-nowra-nsw-2541-2017140174
+405,Just Listed | By Appointment ,RHODES,NSW,2138,"1109/36 Shoreline Drive, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1109-36-shoreline-drive-rhodes-nsw-2138-2017140173
+406,Forthcoming Auction ,BUNDEENA,NSW,2230,"81-83 Bundeena  Drive, ","1,582m² ",House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/81-83-bundeena-drive-bundeena-nsw-2230-2017140167
+407,"$739,000 - $779,000 ",CRANEBROOK,NSW,2749,"4 Lynx Place, ",,House,,,,https://www.domain.com.au/4-lynx-place-cranebrook-nsw-2749-2017140166
+408,Forthcoming Auction ,CAMPERDOWN,NSW,2050,"106/144-152 Mallett Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/106-144-152-mallett-street-camperdown-nsw-2050-2017140164
+409,Total area 73sqm ,SCHOFIELDS,NSW,2762,"138/50B Jacqui Avenue, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/138-50b-jacqui-avenue-schofields-nsw-2762-2017140163
+410,Golden opportunity in Matthew Pearce ,BAULKHAM HILLS,NSW,2153,"87 Baulkham Hills Road, ",822m² ,House,3 Beds,3 Baths,2 Parking,https://www.domain.com.au/87-baulkham-hills-road-baulkham-hills-nsw-2153-2017140161
+411,Price on request ,THE ENTRANCE,NSW,2261,"18/1 Tuggerah Parade, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/18-1-tuggerah-parade-the-entrance-nsw-2261-2017140148
+412,Price on Request ,PUNCHBOWL,NSW,2196,"92 Dudley  Street, ",543m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/92-dudley-street-punchbowl-nsw-2196-2017140146
+413,"$1,400,000 ",MULLUMBIMBY,NSW,2482,"33 Ann Street, ","1,351m² ",House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/33-ann-street-mullumbimby-nsw-2482-2017140129
+414,Offers Invited Call Christina ,SYDNEY OLYMPIC PARK,NSW,2127,"1006/1 Australia  Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1006-1-australia-avenue-sydney-olympic-park-nsw-2127-2017140124
+415,"$375,000 ",CASINO,NSW,2470,"19 Cascade Drive, ",,House,,,,https://www.domain.com.au/19-cascade-drive-casino-nsw-2470-2017140123
+416,"$90,000 ",HAY,NSW,2711,"433 Church, ",506m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/433-church-hay-nsw-2711-2017140117
+417,"$2,200,000 ",RANDWICK,NSW,2031,"OV107/8 Yarraman Avenue, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/ov107-8-yarraman-avenue-randwick-nsw-2031-2017140096
+418,Just Listed ,NORTH RICHMOND,NSW,2754,"2/44 William Street, ",,House,,,,https://www.domain.com.au/2-44-william-street-north-richmond-nsw-2754-2017140105
+419,Expressions Of Interest ,CANLEY VALE,NSW,2166,"13/136 Lansdowne Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/13-136-lansdowne-road-canley-vale-nsw-2166-2017140104
+420,Auction ,SHELLY BEACH,NSW,2261,"21 Marquis Close, ",297m² ,Duplex,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/21-marquis-close-shelly-beach-nsw-2261-2017140103
+421,New to Market ,WORRIGEE,NSW,2540,"72 Bennett Place, ","9,995m² ",House,5 Beds,2 Baths,4 Parking,https://www.domain.com.au/72-bennett-place-worrigee-nsw-2540-2017140094
+422,Price on request ,GLENNING VALLEY,NSW,2261,"485 Brush Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/485-brush-road-glenning-valley-nsw-2261-2017140082
+423,Forthcoming Auction ,BRONTE,NSW,2024,"75 Belgrave Street, ",,House,,,,https://www.domain.com.au/75-belgrave-street-bronte-nsw-2024-2017140081
+424,"Price Guide $1,700,000 ",MARSFIELD,NSW,2122,"15 Thelma Street, ",575m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/15-thelma-street-marsfield-nsw-2122-2017140080
+425,"$580,000 to $630,000 ",GOROKAN,NSW,2263,"5 Vena Avenue, ",,House,,,,https://www.domain.com.au/5-vena-avenue-gorokan-nsw-2263-2017140075
+426,"$1,650,000 ",RANDWICK,NSW,2031,"OV005/8 Yarraman Avenue, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/ov005-8-yarraman-avenue-randwick-nsw-2031-2017140068
+427,"Price Guide $630,000 ",MARULAN,NSW,2579,"4 Patrick  Place, ","1,505m² ",House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/4-patrick-place-marulan-nsw-2579-2017140072
+428,Brand New To Market ,TOUKLEY,NSW,2263,"8 Palomar Parade, ",493m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/8-palomar-parade-toukley-nsw-2263-2017140071
+429,"$145,000 ",GUNDAGAI,NSW,2722,"336 Neil McInerney Street, ",,Vacant land,,,,https://www.domain.com.au/336-neil-mcinerney-street-gundagai-nsw-2722-2017140069
+430,"Price Guide $1,700,000 ",ROZELLE,NSW,2039,"1/19 Quirk Street, ",132m² ,House,2 Beds,3 Baths,− Parking,https://www.domain.com.au/1-19-quirk-street-rozelle-nsw-2039-2017140064
+431,Coming Soon ,WOODRISING,NSW,2284,,734m² ,House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/woodrising-nsw-2284-2017140059
+432,"$649,000 - $699,000 ",NOWRA,NSW,2541,"11 Killara Road, ",,House,,,,https://www.domain.com.au/11-killara-road-nowra-nsw-2541-2017140057
+433,Grand Masterpiece in a dress circle location ,BAULKHAM HILLS,NSW,2153,"15 Alysse Close, ",700m² ,House,3 Beds,2 Baths,5 Parking,https://www.domain.com.au/15-alysse-close-baulkham-hills-nsw-2153-2017140055
+434,Forthcoming Auction ,LEURA,NSW,2780,"34 Britain Street, ",645m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/34-britain-street-leura-nsw-2780-2017140053
+435,"$170,000 ",WENTWORTH,NSW,2648,"34 Armstrong Avenue, ",,House,,,,https://www.domain.com.au/34-armstrong-avenue-wentworth-nsw-2648-2017140016
+436,OFFER WELCOMED ,BOTANY,NSW,2019,"21/15-19 Edgehill Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/21-15-19-edgehill-avenue-botany-nsw-2019-2017111615
+437,"$898,000 ",BOX HILL,NSW,2765,,250m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/box-hill-nsw-2765-2017140024
+438,"$2,950,000 ",COLEAMBALLY,NSW,2707,"Aggregation & Water Morley Road, ",,Farm,,,,https://www.domain.com.au/aggregation-water-morley-road-coleambally-nsw-2707-2017140027
+439,CONTACT AGENT ,BLACKWALL,NSW,2256,"1/500 Orange Grove Road, ",,Townhouse,,,,https://www.domain.com.au/1-500-orange-grove-road-blackwall-nsw-2256-2017140023
+440,Contact Agent ,MOSMAN,NSW,2088,"B3/112 Cowles Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/b3-112-cowles-road-mosman-nsw-2088-2017139872
+441,"$719,400 ",CHARMHAVEN,NSW,2263,"161 Pacific Highway, ",683m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/161-pacific-highway-charmhaven-nsw-2263-2017140017
+442,"Guide $700,000 - $750,000 ",KELSO,NSW,2795,,,House,,,,https://www.domain.com.au/kelso-nsw-2795-2017140013
+443,"Buyers guide $1,300,000 ",SURRY HILLS,NSW,2010,"1/343-349 Riley Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-343-349-riley-street-surry-hills-nsw-2010-2017140012
+444,Contact Agent ,MITTAGONG,NSW,2575,"22/200 Old Hume Highway, ",96m² ,House,2 Beds,2 Baths,1 Parking,https://www.domain.com.au/22-200-old-hume-highway-mittagong-nsw-2575-2017140007
+445,Contact Ian Wallace 0416 251 073 ,BONDI BEACH,NSW,2026,"3/13 Francis Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-13-francis-street-bondi-beach-nsw-2026-2017140005
+446,Contact Agent ,BOWRAL,NSW,2576,"11/20 Clarke Street, ",,House,,,,https://www.domain.com.au/11-20-clarke-street-bowral-nsw-2576-2017140004
+447,Price on request ,GREEN POINT,NSW,2251,"295A Avoca Drive, ",691m² ,House,4 Beds,4 Baths,3 Parking,https://www.domain.com.au/295a-avoca-drive-green-point-nsw-2251-2017140002
+448,"$439,000 ",GOULBURN,NSW,2580,"20 Mayor Street, ",445m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/20-mayor-street-goulburn-nsw-2580-2017140000
+449,Contact Agent ,SPEERS POINT,NSW,2284,"8 Hamilton Street, ",809m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/8-hamilton-street-speers-point-nsw-2284-2017139999
+450,Auction ,NEW LAMBTON HEIGHTS,NSW,2305,"15 Hollywood Parade, ","1,195m² ",House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/15-hollywood-parade-new-lambton-heights-nsw-2305-2017139994
+451,Brand new 2 beds for FH Buyers ,EPPING,NSW,2121,"406/32 Cliff Road, ",115m² ,Apartment / Unit / Flat,2 Beds,2 Baths,1 Parking,https://www.domain.com.au/406-32-cliff-road-epping-nsw-2121-2017139983
+452,"$999,000 ",BOX HILL,NSW,2765,"Box Hill Heights, ",312m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/box-hill-heights-box-hill-nsw-2765-2017139976
+453,"$595,300 ",TAREE,NSW,2430,"Lot 509 Talawong Drive, ",746m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-509-talawong-drive-taree-nsw-2430-2017139954
+454,"$799,000 - $849,000 ",BLAXLAND,NSW,2774,"32 Hilda Street, ",553m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/32-hilda-street-blaxland-nsw-2774-2017139986
+455,Brand New to Market ,GLENNING VALLEY,NSW,2261,"75 Anderson Road, ",1.01ha ,House,6 Beds,4 Baths,4 Parking,https://www.domain.com.au/75-anderson-road-glenning-valley-nsw-2261-2017139984
+456,NEW TO MARKET ,SPRING FARM,NSW,2570,"13 Cassidy Street, ",,House,,,,https://www.domain.com.au/13-cassidy-street-spring-farm-nsw-2570-2017139981
+457,"$469,000 ",GULGONG,NSW,2852,"14 Herbert Street, ",632m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/14-herbert-street-gulgong-nsw-2852-2017139974
+458,PREVIEW ,GLENFIELD PARK,NSW,2650,"48 Lamilla Street, ",776m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/48-lamilla-street-glenfield-park-nsw-2650-2017139966
+459,"$1,046,400 ",GLENNING VALLEY,NSW,2261,"Lot 307 Butternut Avenue, ",749m² ,House & Land,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-307-butternut-avenue-glenning-valley-nsw-2261-2017139959
+460,"1 to 3 bedrooms from $759,000 to $3,990,000 still available ",ST LEONARDS,NSW,2065,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/st-leonards-nsw-2065-2017139936
+461,JUST LISTED ,QUAKERS HILL,NSW,2763,"6 Rowntree Street, ",556m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/6-rowntree-street-quakers-hill-nsw-2763-2017139952
+462,"Auction Guide $1,450,000 ",NORTH CURL CURL,NSW,2099,"1/150 Pitt Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-150-pitt-road-north-curl-curl-nsw-2099-2017139949
+463,"$2,525,000 ",TURRAMURRA,NSW,2074,"Lot 407 Toms Pocket, ",,New land,,,,https://www.domain.com.au/lot-407-toms-pocket-turramurra-nsw-2074-2017139927
+464,"$480,000 ",SOUTH WEST ROCKS,NSW,2431,"23 Phillip Drive, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/23-phillip-drive-south-west-rocks-nsw-2431-2017139947
+465,"$580,000 ",SOUTH WEST ROCKS,NSW,2431,"60 Phillip Drive, ",,House,,,,https://www.domain.com.au/60-phillip-drive-south-west-rocks-nsw-2431-2017139943
+466,"$420,000 ",HAY,NSW,2711,"101 Lachlan Street, ",,House,,,,https://www.domain.com.au/101-lachlan-street-hay-nsw-2711-2017139938
+467,Property Preview ,DUNGOG,NSW,2420,"19 Chapman Street, ",999m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/19-chapman-street-dungog-nsw-2420-2017139935
+468,"$2,000,000 ",LORNE,NSW,2439,"392 Tipperary Road, ",,Specialist Farm,,,,https://www.domain.com.au/392-tipperary-road-lorne-nsw-2439-2017139930
+469,Offers over $550K ,GULGONG,NSW,2852,"165-167 Mayne Street, ","1,303m² ",House,3 Beds,1 Bath,3 Parking,https://www.domain.com.au/165-167-mayne-street-gulgong-nsw-2852-2017139929
+470,For Sale By Negotiation ,MOOREBANK,NSW,2170,"54 Market Street, ",725m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/54-market-street-moorebank-nsw-2170-2017139918
+471,"Price Guide $1,195,000 ",BONDI JUNCTION,NSW,2022,"801/292-302 Oxford Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/801-292-302-oxford-street-bondi-junction-nsw-2022-2017139868
+472,"$898,900.00 ",EDMONDSON PARK,NSW,2174,"Lot 507 Passendale Road, ",254m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-507-passendale-road-edmondson-park-nsw-2174-2016808330
+473,"$849,850 ",GREGORY HILLS,NSW,2557,,300m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/gregory-hills-nsw-2557-2017139903
+474,SALE ,SAPPHIRE BEACH,NSW,2450,"161/8 Solitary Islands Way, ",,Villa,,,,https://www.domain.com.au/161-8-solitary-islands-way-sapphire-beach-nsw-2450-2017139889
+475,Inspect by Private Appointment ,LANE COVE,NSW,2066,"8 Penrose Street, ",,House,,,,https://www.domain.com.au/8-penrose-street-lane-cove-nsw-2066-2017139862
+476,"Price Guide $1,800,000 ",BONDI JUNCTION,NSW,2022,"701/292-302 Oxford Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/701-292-302-oxford-street-bondi-junction-nsw-2022-2017139852
+477,Contact Agent ,SOUTH ALBURY,NSW,2640,"1/576 Ebden Street, ",116m² ,Apartment / Unit / Flat,2 Beds,1 Bath,2 Parking,https://www.domain.com.au/1-576-ebden-street-south-albury-nsw-2640-2017139860
+478,Auction | Inspect By Appointment ,ASHBURY,NSW,2193,"3 Ayr Street, ",,House,,,,https://www.domain.com.au/3-ayr-street-ashbury-nsw-2193-2017139857
+479,"$650,000 to $700,000 ",LEUMEAH,NSW,2560,"528 Pembroke Road, ",,House,,,,https://www.domain.com.au/528-pembroke-road-leumeah-nsw-2560-2017139853
+480,Expressions of Interest ,MORUYA,NSW,2537,"7 Ted Hunt Terrace, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/7-ted-hunt-terrace-moruya-nsw-2537-2017139854
+481,"Buyer Guide $1,750,000 ",CLOVELLY,NSW,2031,"4/40 Eastbourne Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-40-eastbourne-avenue-clovelly-nsw-2031-2017139848
+482,Auction ,SURRY HILLS,NSW,2010,"162 Commonwealth Street, ",,Terrace,,,,https://www.domain.com.au/162-commonwealth-street-surry-hills-nsw-2010-2017139845
+483,"$769,000 ",WONGAWILLI,NSW,2530,,,House & Land,,,,https://www.domain.com.au/wongawilli-nsw-2530-2017139842
+484,Expressions of Interest ,TIGHES HILL,NSW,2297,"4 Rose Street, ",259m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/4-rose-street-tighes-hill-nsw-2297-2017139841
+485,Expressions of Interest ,MOLLYMOOK,NSW,2539,"55/55 Nethercote Street, ",,Vacant land,,,,https://www.domain.com.au/55-55-nethercote-street-mollymook-nsw-2539-2017139838
+486,"$450,000 - $495,000 ",LAGUNA,NSW,2325,,,Rural,,,,https://www.domain.com.au/laguna-nsw-2325-2017139836
+487,"$700,000-750,000 Inspect by private appointment ",ZETLAND,NSW,2017,"772/2 Cooper  Place, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/772-2-cooper-place-zetland-nsw-2017-2017139835
+488,"$719,990 ",MOUNT ANNAN,NSW,2567,"15 Rose Drive, ",564m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/15-rose-drive-mount-annan-nsw-2567-2017139828
+489,"$440,000 ",WELLINGROVE,NSW,2370,"464 Wellingrove Road, ",,Rural,,,,https://www.domain.com.au/464-wellingrove-road-wellingrove-nsw-2370-2017139822
+490,Forthcoming Auction - Call to Inspect! ,NORTH STRATHFIELD,NSW,2137,"51 Queen Street, ",885m² ,House,5 Beds,4 Baths,3 Parking,https://www.domain.com.au/51-queen-street-north-strathfield-nsw-2137-2017139808
+491,Auction ,ALSTONVILLE,NSW,2477,"17 Arrowsmith Avenue, ",893m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/17-arrowsmith-avenue-alstonville-nsw-2477-2017139807
+492,"$285,000 ",MUSWELLBROOK,NSW,2333,"3/37 Rutherford Road, ",,Townhouse,,,,https://www.domain.com.au/3-37-rutherford-road-muswellbrook-nsw-2333-2017139797
+493,"Price guide $599,000 - $625,000 ",DORRIGO,NSW,2453,"17 Gatenby  Street, ",805m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/17-gatenby-street-dorrigo-nsw-2453-2017139793
+494,"Price Guide: $780,000 - $820,000 ",GUILDFORD,NSW,2161,"50 Hawksview Street, ",418m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/50-hawksview-street-guildford-nsw-2161-2017139792
+495,AUCTION ONSITE ,BANKSTOWN,NSW,2200,"89 Edgar Street, ",790m² ,House,5 Beds,3 Baths,5 Parking,https://www.domain.com.au/89-edgar-street-bankstown-nsw-2200-2017094648
+496,Price Guide $1.58ml ,POTTSVILLE,NSW,2489,"44 Marsupial Drive, ",,House,,,,https://www.domain.com.au/44-marsupial-drive-pottsville-nsw-2489-2016971632
+497,Auction ,NEWPORT,NSW,2106,"98 Grandview Drive, ",,House,,,,https://www.domain.com.au/98-grandview-drive-newport-nsw-2106-2017139779
+498,Expressions of Interest ,NEW LAMBTON,NSW,2305,"347 Turton Road, ",360m² ,House,5 Beds,2 Baths,1 Parking,https://www.domain.com.au/347-turton-road-new-lambton-nsw-2305-2017139776
+499,"$1,295,000 - $1,400,000 ",SHELL COVE,NSW,2529,"11 Huntingdale Close, ",616m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/11-huntingdale-close-shell-cove-nsw-2529-2017139774
+500,CONTACT AGENT ,WEST HOXTON,NSW,2171,"16 Hallen Place, ",552m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/16-hallen-place-west-hoxton-nsw-2171-2017139773
+501,"$595,000 - $650,000 ",WARATAH,NSW,2298,"3a Grove Street, ",284m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/3a-grove-street-waratah-nsw-2298-2017139767
+502,"$965,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",476m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139762
+503,"$550,000 ",SINGLETON,NSW,2330,"14 Edinburgh Avenue, ",633m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/14-edinburgh-avenue-singleton-nsw-2330-2017139757
+504,"Auction - Guide $650,000 ",WALLSEND,NSW,2287,"22 Cardiff Road, ",628m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/22-cardiff-road-wallsend-nsw-2287-2017139753
+505,Selling Now! ,GUNNEDAH,NSW,2380,"2/5 Silversmith Place, ",860m² ,House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/2-5-silversmith-place-gunnedah-nsw-2380-2017139750
+506,Contact Agent ,MERIMBULA,NSW,2548,"9/57-59 Berrambool Drive, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/9-57-59-berrambool-drive-merimbula-nsw-2548-2017139749
+507,"Price Guide $1,350,000 ",BOWRAL,NSW,2576,"62 Boardman Road, ",800m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/62-boardman-road-bowral-nsw-2576-2017139736
+508,By Negotiation ,TAMWORTH,NSW,2340,"7 James Place, ",330m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/7-james-place-tamworth-nsw-2340-2017139747
+509,Auction ,WONGARBON,NSW,2831,"'San Blas' 29L Veechs Road, ",,Rural,,,,https://www.domain.com.au/-san-blas-29l-veechs-road-wongarbon-nsw-2831-2017139746
+510,"1 to 3 bedrooms from $1,520,000 to $2,650,000 still available ",RANDWICK,NSW,2031,,,New Apartments / Off the Plan,,,,https://www.domain.com.au/randwick-nsw-2031-2017139743
+511,"$1,800,000 to $1,900,000 ",GREENWELL POINT,NSW,2540,"81 Adelaide street, ",670m² ,House,3 Beds,2 Baths,5 Parking,https://www.domain.com.au/81-adelaide-street-greenwell-point-nsw-2540-2017139744
+512,"$414,000 ",GULGONG,NSW,2852,"6 Nandoura Street, ",632m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/6-nandoura-street-gulgong-nsw-2852-2017139741
+513,Auction on site ,CLOVASS,NSW,2480,"1950 Bruxner Highway, ","1,012m² ",House,1 Bed,1 Bath,− Parking,https://www.domain.com.au/1950-bruxner-highway-clovass-nsw-2480-2017139733
+514,NEW TO MARKET ,TUNCURRY,NSW,2428,"2/26 Pacific Parade, ",,Villa,,,,https://www.domain.com.au/2-26-pacific-parade-tuncurry-nsw-2428-2017139723
+515,"$37,500 ",BINGARA,NSW,2404,"3 Bligh Street, ",961m² ,House,1 Bed,1 Bath,1 Parking,https://www.domain.com.au/3-bligh-street-bingara-nsw-2404-2017139719
+516,"$1,070,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",450m² ,House & Land,7 Beds,4 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139714
+517,Display Open - Inspection By Appointment Only ,RIVERSTONE,NSW,2765,"7 Garreffa Street, ",353m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/7-garreffa-street-riverstone-nsw-2765-2017139712
+518,"$549,000 ",SANCTUARY POINT,NSW,2540,"1 Vost  Drive, ",,House,,,,https://www.domain.com.au/1-vost-drive-sanctuary-point-nsw-2540-2017139710
+519,"Price guide $410,000 ",WEST WOLLONGONG,NSW,2500,"1/109 Mt Keira Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-109-mt-keira-road-west-wollongong-nsw-2500-2017139707
+520,"$679,950 - $719,950 ",ROPES CROSSING,NSW,2760,"12 Huntington Street, ",225m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/12-huntington-street-ropes-crossing-nsw-2760-2017139706
+521,"$340,000 ",CANIABA,NSW,2480,"3 Grey Gum Close, ",,Vacant land,,,,https://www.domain.com.au/3-grey-gum-close-caniaba-nsw-2480-2017139698
+522,Contact Agent ,SOUTH MURWILLUMBAH,NSW,2484,"502 Tweed Valley Way, ",493m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/502-tweed-valley-way-south-murwillumbah-nsw-2484-2017139693
+523,"$29,000 ",BROKEN HILL,NSW,2880,"101 Creedon Street, ",563m² ,House,3 Beds,1 Bath,− Parking,https://www.domain.com.au/101-creedon-street-broken-hill-nsw-2880-2017061002
+524,"$897,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",528m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139681
+525,"$1,066,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",528m² ,House & Land,6 Beds,4 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139679
+526,Contact Agent ,LONG JETTY,NSW,2261,"9/15-17 Nirvana Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/9-15-17-nirvana-street-long-jetty-nsw-2261-2017139674
+527,"$840,000 to $920,000 ",GWANDALAN,NSW,2259,"33 Bay Vista Way, ",,House,,,,https://www.domain.com.au/33-bay-vista-way-gwandalan-nsw-2259-2017139673
+528,"$439,900 ",BOURKELANDS,NSW,2650,"29 Overdale Drive, ",840m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/29-overdale-drive-bourkelands-nsw-2650-2017139672
+529,"$750,000 - $800,000 ",NORTH GOSFORD,NSW,2250,"14 Marangani Avenue, ",613m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/14-marangani-avenue-north-gosford-nsw-2250-2017139670
+530,Contact Agent ,CULBURRA BEACH,NSW,2540,,695m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/culburra-beach-nsw-2540-2017139667
+531,"$820,000 ",DOONSIDE,NSW,2767,"19 Criterion Crescent, ",,House,,,,https://www.domain.com.au/19-criterion-crescent-doonside-nsw-2767-2017139666
+532,"$650,000 - $700,000 ",BLAIRMOUNT,NSW,2559,"9 Salerno Place, ",290m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/9-salerno-place-blairmount-nsw-2559-2017139664
+533,"$620,000 ",QUIRINDI,NSW,2343,"971 Borah Creek Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/971-borah-creek-road-quirindi-nsw-2343-2017139660
+534,"Price Guide $800,000 - $850,000 ",WOLLONGONG,NSW,2500,"301/41 Crown Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/301-41-crown-street-wollongong-nsw-2500-2017139650
+535,Just Listed!!  876 sq metre corner block !! ,ERSKINE PARK,NSW,2759,"1 Wagtail Place, ",876m² ,House,3 Beds,1 Bath,6 Parking,https://www.domain.com.au/1-wagtail-place-erskine-park-nsw-2759-2017139649
+536,Just Listed ,OCEAN SHORES,NSW,2483,"36 Banool Circuit, ",,House,,,,https://www.domain.com.au/36-banool-circuit-ocean-shores-nsw-2483-2017139645
+537,"$220,000 ",TALLWOODS VILLAGE,NSW,2430,"8 Barrington Cres, ",,Vacant land,,,,https://www.domain.com.au/8-barrington-cres-tallwoods-village-nsw-2430-2017139642
+538,"$563,900 ",MACKSVILLE,NSW,2447,"2 Macksville Heights Estate Stage 5, ",598m² ,House & Land,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/2-macksville-heights-estate-stage-5-macksville-nsw-2447-2017139638
+539,"$707,800 ",CLARENZA,NSW,2460,"8 Clarenza Estate, ","15,000m² ",House & Land,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/8-clarenza-estate-clarenza-nsw-2460-2017139634
+540,"$698,800 ",CLARENZA,NSW,2460,"18 Clarenza Estate, ","15,000m² ",House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/18-clarenza-estate-clarenza-nsw-2460-2017139633
+541,"$669,890 ",CLARENZA,NSW,2460,"10 Clarenza Estate, ","15,000m² ",House & Land,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/10-clarenza-estate-clarenza-nsw-2460-2017139632
+542,"$975,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",462m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139630
+543,"$557,390 ",MACKSVILLE,NSW,2447,"9 Macksville Heights Estate Stage 5, ",495m² ,House & Land,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/9-macksville-heights-estate-stage-5-macksville-nsw-2447-2017139629
+544,"$670,890 ",CLARENZA,NSW,2460,"10 Clarenza Estate, ","15,000m² ",House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/10-clarenza-estate-clarenza-nsw-2460-2017139627
+545,"$739,900 ",MACKSVILLE,NSW,2447,"26 Rosella Ridge Estate, ","207,000m² ",House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/26-rosella-ridge-estate-macksville-nsw-2447-2017139625
+546,"$930,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",,House & Land,,,,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139624
+547,"$160,000 ",DUNEDOO,NSW,2844,"14 Cobborah Street, ","1,040m² ",House,3 Beds,1 Bath,− Parking,https://www.domain.com.au/14-cobborah-street-dunedoo-nsw-2844-2017135604
+548,For Sale - Contact Agent ,CHATSWOOD,NSW,2067,"702/438 Victoria Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/702-438-victoria-avenue-chatswood-nsw-2067-2017139615
+549,"$538,890 ",NAMBUCCA HEADS,NSW,2448,"56 Bellbird Estate, ",550m² ,House & Land,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/56-bellbird-estate-nambucca-heads-nsw-2448-2017139614
+550,Contact Wayne Singh ,SYLVANIA,NSW,2224,,"1,037m² ",House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/sylvania-nsw-2224-2017139612
+551,"$419,950-$449,950 ",BLACKTOWN,NSW,2148,"9/19-21 Oxford Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/9-19-21-oxford-street-blacktown-nsw-2148-2017139609
+552,Forthcoming Auction ,POTTS POINT,NSW,2011,"514/81 Macleay Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/514-81-macleay-street-potts-point-nsw-2011-2017139607
+553,JUST LISTED ,WINDSOR,NSW,2756,"21 North Street, ","1,375m² ",House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/21-north-street-windsor-nsw-2756-2016776861
+554,Auction unless sold prior ,WEST PENNANT HILLS,NSW,2125,"8 Hillside Place, ",948m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/8-hillside-place-west-pennant-hills-nsw-2125-2017139588
+555,Contact Agent ,NORWEST,NSW,2153,"207/21-25 Spurway Drive, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/207-21-25-spurway-drive-norwest-nsw-2153-2017139572
+556,"$600,000 to $630,000 ",BURWOOD,NSW,2134,"3/63 Albert Crescent, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-63-albert-crescent-burwood-nsw-2134-2017139583
+557,"$288,000 ",COOTAMUNDRA,NSW,2590,"188 Sutton Street, ",769m² ,House,3 Beds,1 Bath,5 Parking,https://www.domain.com.au/188-sutton-street-cootamundra-nsw-2590-2017139580
+558,By Negotiation ,WALLENDBEEN,NSW,2588,"261&260 Burley Griffin Way, ",,Rural,,,,https://www.domain.com.au/261-260-burley-griffin-way-wallendbeen-nsw-2588-2017139579
+559,"$820,000-$860,000 ",HORSLEY,NSW,2530,"45 Bunya Street, ",,House,,,,https://www.domain.com.au/45-bunya-street-horsley-nsw-2530-2017139578
+560,"$799,000 ",JINDEN,NSW,2622,"340 Stoney Ridge Road, ",,Rural,,,,https://www.domain.com.au/340-stoney-ridge-road-jinden-nsw-2622-2017139316
+561,"$520,000 - $550,000 ",WARRAWONG,NSW,2502,"7 Todd Street, ",664m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/7-todd-street-warrawong-nsw-2502-2017139576
+562,"$1,600,000 ",REGENTVILLE,NSW,2745,,,House,,,,https://www.domain.com.au/regentville-nsw-2745-2017139574
+563,Contact Agent ,ROOTY HILL,NSW,2766,"3B Waratah Street, ",248m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/3b-waratah-street-rooty-hill-nsw-2766-2017139564
+564,"$1,199,990 ",THE PONDS,NSW,2769,"61 Mountain Street, ",260m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/61-mountain-street-the-ponds-nsw-2769-2016798596
+565,"$800,000 - $880,000 ",ST MARYS,NSW,2760,"26 Mitchell Street, ",797m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/26-mitchell-street-st-marys-nsw-2760-2017139563
+566,NEW TO MARKET ,POTTSVILLE,NSW,2489,"12 Moonee Street, ",640m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/12-moonee-street-pottsville-nsw-2489-2017139560
+567,Contact Agent ,NORWEST,NSW,2153,"106/21-25 Spurway Drive, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/106-21-25-spurway-drive-norwest-nsw-2153-2017139547
+568,Contact Agent ,MOSS VALE,NSW,2577,"11 Illawarra Highway, ",,Vacant land,,,,https://www.domain.com.au/11-illawarra-highway-moss-vale-nsw-2577-2017139555
+569,"$445,000 ",LAKE CATHIE,NSW,2445,"Lot 23 Glen Eden Estate, ",,Vacant land,,,,https://www.domain.com.au/lot-23-glen-eden-estate-lake-cathie-nsw-2445-2017139553
+570,"$894,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",473m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139552
+571,"Auction Guide $3,000,000 ",FAIRLIGHT,NSW,2094,"62 Griffiths Street, ",613m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/62-griffiths-street-fairlight-nsw-2094-2017139546
+572,"$857,000 ",SPRING FARM,NSW,2570,"Address on request Address on request, ",580m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-on-request-address-on-request-spring-farm-nsw-2570-2017139539
+573,CONTACT AGENT ,MITTAGONG,NSW,2575,"9 Barton Close, ",601m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/9-barton-close-mittagong-nsw-2575-2017139535
+574,"$1,100,000 - $1,200,000 ",OBERON,NSW,2787,"982 Lowes Mount Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/982-lowes-mount-road-oberon-nsw-2787-2017139532
+575,Live Stream Wed 21 July 10.15am - 10.25am ,WILLOUGHBY,NSW,2068,"302A/34 Penshurst Street, ",135m² ,Apartment / Unit / Flat,2 Beds,2 Baths,2 Parking,https://www.domain.com.au/302a-34-penshurst-street-willoughby-nsw-2068-2017139527
+576,"$750,000 ",BERMAGUI,NSW,2546,"27 West Street, ",705m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/27-west-street-bermagui-nsw-2546-2017139525
+577,Expressions Of Interest ,WALGETT,NSW,2832,"Roxburgh, ",,Rural,,,,https://www.domain.com.au/roxburgh-walgett-nsw-2832-2017139524
+578,"$350,000 - $375,000 ",ARMIDALE,NSW,2350,"14 Jubilee Road, ",686m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/14-jubilee-road-armidale-nsw-2350-2017139520
+579,"$295,000 ",GLENCOE,NSW,2365,"14 Railway Street, ",,House,,,,https://www.domain.com.au/14-railway-street-glencoe-nsw-2365-2017139518
+580,"$1,200,000 - $1,300,000 ",BUNGENDORE,NSW,2621,"39 McDonnell Drive, ","8,000m² ",House,4 Beds,3 Baths,5 Parking,https://www.domain.com.au/39-mcdonnell-drive-bungendore-nsw-2621-2017139509
+581,Contact Agent ,DARLING POINT,NSW,2027,"8/39 Sutherland Crescent, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8-39-sutherland-crescent-darling-point-nsw-2027-2017139506
+582,"Guide $650,000 ",THE ENTRANCE,NSW,2261,"97A Oakland Avenue, ",328m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/97a-oakland-avenue-the-entrance-nsw-2261-2017139505
+583,"$512,000 ",GOULBURN,NSW,2580,"72 Prince  Street, ",600m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/72-prince-street-goulburn-nsw-2580-2017139502
+584,$439950 ,BLACKTOWN,NSW,2148,"40/9 Fourth  Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/40-9-fourth-avenue-blacktown-nsw-2148-2017139494
+585,"$450,000 - $475,000 ",ARMIDALE,NSW,2350,"3 Cynthia Crescent, ",806m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/3-cynthia-crescent-armidale-nsw-2350-2017139488
+586,"$950,000 ",BOWMAN FARM,NSW,2422,"Lot 20 Bowman Farm Road, ",,Rural,,,,https://www.domain.com.au/lot-20-bowman-farm-road-bowman-farm-nsw-2422-2017139476
+587,$360 000 ,GRAFTON,NSW,2460,"4/97 Oliver Street, ",,Townhouse,,,,https://www.domain.com.au/4-97-oliver-street-grafton-nsw-2460-2017139472
+588,Fast Track ,GOONELLABAH,NSW,2480,"86 Invercauld Road, ",770m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/86-invercauld-road-goonellabah-nsw-2480-2017139401
+589,Auction 7 August ,EDGECLIFF,NSW,2027,"34/4 New Mclean Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/34-4-new-mclean-street-edgecliff-nsw-2027-2017139460
+590,Inspect By Private Appointment ,BELLEVUE HILL,NSW,2023,"80 Beresford  Road, ","1,063m² ",House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/80-beresford-road-bellevue-hill-nsw-2023-2017139457
+591,"$269,000 ",TAMWORTH,NSW,2340,"58 Quinn Street, ",902m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/58-quinn-street-tamworth-nsw-2340-2017139452
+592,"$610,000 ",LAVINGTON,NSW,2641,"1 & 2/419 Prune Street, ",754m² ,Townhouse,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/1-2-419-prune-street-lavington-nsw-2641-2017139450
+593,"$459,000 ",BANKSTOWN,NSW,2200,"3/51 Cairds Avenue, ",113m² ,Apartment / Unit / Flat,2 Beds,1 Bath,2 Parking,https://www.domain.com.au/3-51-cairds-avenue-bankstown-nsw-2200-2017139443
+594,Subdivision Potential ,NORTH KELLYVILLE,NSW,2155,"81 Stringer Road, ","20,234m² ",House,5 Beds,3 Baths,3 Parking,https://www.domain.com.au/81-stringer-road-north-kellyville-nsw-2155-2017139439
+595,Forthcoming Auction ,MCMAHONS POINT,NSW,2060,"68/14-28 Blues Point Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/68-14-28-blues-point-road-mcmahons-point-nsw-2060-2017139432
+596,"$1,040,500 ",ORAN PARK,NSW,2570,,480m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/oran-park-nsw-2570-2017139426
+597,New to Market | Call to Inspect ,HOMEBUSH WEST,NSW,2140,"4/80-82 Courallie Avenue, ",154m² ,Apartment / Unit / Flat,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/4-80-82-courallie-avenue-homebush-west-nsw-2140-2017139419
+598,"1 and 2 bedrooms from $415,000 to $530,000 still available ",LIVERPOOL,NSW,2170,,,Apartment / Unit / Flat,,,,https://www.domain.com.au/liverpool-nsw-2170-2017139378
+599,Upcoming Auction ,CATTAI,NSW,2756,"551 Wisemans Ferry Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/551-wisemans-ferry-road-cattai-nsw-2756-2017139409
+600,"55,000 ",MURRURUNDI,NSW,2338,"34 Victoria Street, ",,Vacant land,,,,https://www.domain.com.au/34-victoria-street-murrurundi-nsw-2338-2017139404
+601,Auction ,OAK FLATS,NSW,2529,"11 Hopetoun Street, ",,Villa,,,,https://www.domain.com.au/11-hopetoun-street-oak-flats-nsw-2529-2017139394
+602,Auction ,NORTH BONDI,NSW,2026,"154 & 156 Brighton Boulevard, ",,Block of Units,,,,https://www.domain.com.au/154-156-brighton-boulevard-north-bondi-nsw-2026-2017139381
+603,Contact Agent ,ELLALONG,NSW,2325,,809m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/ellalong-nsw-2325-2017139366
+604,"$918,315 ",SPRING FARM,NSW,2570,"323 Abidi Street, ",450m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/323-abidi-street-spring-farm-nsw-2570-2017139365
+605,Spacious house. Walking distance to metro station. ,ROUSE HILL,NSW,2155,"6/145 Tallawong Road, ",409m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/6-145-tallawong-road-rouse-hill-nsw-2155-2017139364
+606,"$686,800 | House and Land Package ",RIVERSTONE,NSW,2765,"104/137 Crown Street, ",365m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/104-137-crown-street-riverstone-nsw-2765-2017139363
+607,"$918,315 ",SPRING FARM,NSW,2570,"324 Abidi Street, ",450m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/324-abidi-street-spring-farm-nsw-2570-2017139362
+608,Riverstone House land package price from $840K ,RIVERSTONE,NSW,2765,"23/27 Campbell Street, ",458m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/23-27-campbell-street-riverstone-nsw-2765-2017139361
+609,Contact Agent ,COBBITTY,NSW,2570,"540 The Northern Road, ",377m² ,House,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/540-the-northern-road-cobbitty-nsw-2570-2017139359
+610,"$921,555 ",SPRING FARM,NSW,2570,"325 Abidi Street, ",450m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/325-abidi-street-spring-farm-nsw-2570-2017139358
+611,"$948,890 ",AUSTRAL,NSW,2179,,301m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/austral-nsw-2179-2017139346
+612,"$921,555 ",SPRING FARM,NSW,2570,"326 Abidi Street, ",450m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/326-abidi-street-spring-farm-nsw-2570-2017139356
+613,"$973,260 ",SPRING FARM,NSW,2570,"328 Abidi Street, ",357m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/328-abidi-street-spring-farm-nsw-2570-2017139354
+614,"Rouse Hill Land House Package, THE LAST STOCK ",ROUSE HILL,NSW,2155,"120 Tallawong Road, ",314m² ,House,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/120-tallawong-road-rouse-hill-nsw-2155-2017139352
+615,"$1,249,000 ",HAMLYN TERRACE,NSW,2259,"40 Virginia Road, ",469m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/40-virginia-road-hamlyn-terrace-nsw-2259-2017109654
+616,"$279,000 ",COPMANHURST,NSW,2460,"70 Sussex Street, ","1,512m² ",House,2 Beds,1 Bath,2 Parking,https://www.domain.com.au/70-sussex-street-copmanhurst-nsw-2460-2017139339
+617,Auction ,NORTH BALGOWLAH,NSW,2093,"4 Woolgoolga  Street, ",557m² ,House,5 Beds,4 Baths,2 Parking,https://www.domain.com.au/4-woolgoolga-street-north-balgowlah-nsw-2093-2017139330
+618,"Auction Guide $2,350,000 ",MOSMAN,NSW,2088,"176 Raglan Street, ",,Semi-Detached,,,,https://www.domain.com.au/176-raglan-street-mosman-nsw-2088-2017139329
+619,PRICE BY NEGOTIATION ,SANCTUARY POINT,NSW,2540,"275 The Park Drive, ",556m² ,House,3 Beds,1 Bath,5 Parking,https://www.domain.com.au/275-the-park-drive-sanctuary-point-nsw-2540-2017139327
+620,Auction ,WELAREGANG,NSW,2642,"316 RIVER ROAD, ",,Rural,,,,https://www.domain.com.au/316-river-road-welaregang-nsw-2642-2017139317
+621,"$420,000 ",LENNOX HEAD,NSW,2478,"85/502 Ross Lane, ",,House,,,,https://www.domain.com.au/85-502-ross-lane-lennox-head-nsw-2478-2017139315
+622,"$339,000 ",CABRAMATTA,NSW,2166,"14/151 John Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/14-151-john-street-cabramatta-nsw-2166-2017139314
+623,"460,000 to $505,000 ",NARWEE,NSW,2209,"3/5 Parry Ave, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-5-parry-ave-narwee-nsw-2209-2016762123
+624,"$1,090,000 ",TALLAWONG,NSW,2762,"Limited Lots!! Addre Available On Request, ",338m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/limited-lots-addre-available-on-request-tallawong-nsw-2762-2017139304
+625,Book Your Private Inspection Now ,RIVERSTONE,NSW,2765,,230m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017139296
+626,Book Your Private Inspection Now ,RIVERSTONE,NSW,2765,,230m² ,House & Land,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017139295
+627,"$1,090,000 ",TALLAWONG,NSW,2762,"Limited Lots!! Addre Available On Request, ",338m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/limited-lots-addre-available-on-request-tallawong-nsw-2762-2017139294
+628,Contact Agent ,RIVERSTONE,NSW,2765,,230m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017139292
+629,"$1,070,000 ",PRESTONS,NSW,2170,"Lot 33 Ochudzawa Place, ",345m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/lot-33-ochudzawa-place-prestons-nsw-2170-2017139259
+630,Book Your Private Inspection Now ,RIVERSTONE,NSW,2765,,230m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017139291
+631,Contact Agent ,RIVERSTONE,NSW,2765,,230m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017139290
+632,Brand New Release!! Call Agent!! ,PEMULWUY,NSW,2145,"Address Available on Request!, ",400m² ,House & Land,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/address-available-on-request-pemulwuy-nsw-2145-2017139289
+633,Brand New Release!! Call Agent!! ,PEMULWUY,NSW,2145,"Address Available on Request!, ",350m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-available-on-request-pemulwuy-nsw-2145-2017139288
+634,"Auction | Guide $800,000 ",GYMEA,NSW,2227,"2/42 Talara Rd, ",,Villa,,,,https://www.domain.com.au/2-42-talara-rd-gymea-nsw-2227-2017139287
+635,Brand New Release!! Call Agent!! ,PEMULWUY,NSW,2145,"Address Available on Request!, ",400m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-available-on-request-pemulwuy-nsw-2145-2017139284
+636,Brand New Release!! Call Agent!! ,PEMULWUY,NSW,2145,"Address Available on Request!, ",300m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-available-on-request-pemulwuy-nsw-2145-2017139283
+637,Book Your Private Inspection Now ,RIVERSTONE,NSW,2765,,230m² ,House & Land,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/riverstone-nsw-2765-2017139281
+638,Brand New Release!! Call Agent!! ,PEMULWUY,NSW,2145,"Address Available on Request!, ",300m² ,House & Land,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/address-available-on-request-pemulwuy-nsw-2145-2017139280
+639,"Auction On Site Sat, 7th Aug at 12pm ",ROSEVILLE,NSW,2069,"12/5-15 Boundary Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/12-5-15-boundary-street-roseville-nsw-2069-2017139279
+640,Brand New Release!! Call Agent!! ,PEMULWUY,NSW,2145,"Address Available on Request!, ",300m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/address-available-on-request-pemulwuy-nsw-2145-2017139275
+641,Contact Agent ,SCHOFIELDS,NSW,2762,"Address Available On Request, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2017130892
+642,Forthcoming Auction ,BRONTE,NSW,2024,"38 Read Street, ",,House,,,,https://www.domain.com.au/38-read-street-bronte-nsw-2024-2017139273
+643,"$330,000 ",AMBARVALE,NSW,2560,"9/3 Lavinia Place, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/9-3-lavinia-place-ambarvale-nsw-2560-2017139268
+644,Contact Agent ,SCHOFIELDS,NSW,2762,"Address Available On Request, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2017130888
+645,"$879,000 - $919,000 ",THIRLMERE,NSW,2572,"10 Highland Crescent, ",,House,,,,https://www.domain.com.au/10-highland-crescent-thirlmere-nsw-2572-2017139265
+646,Auction - Unless Sold Prior ,FRESHWATER,NSW,2096,"109/11 Lawrence Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/109-11-lawrence-street-freshwater-nsw-2096-2017139263
+647,Auction Wed 11th Aug 6:00pm - Don't Miss Out! ,JINDABYNE,NSW,2627,"1 Alice Street, ",,Vacant land,,,,https://www.domain.com.au/1-alice-street-jindabyne-nsw-2627-2017139262
+648,"Brand New 2 Bed Apartments From $550,000 ",SCHOFIELDS,NSW,2762,"Address Available On Request, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/address-available-on-request-schofields-nsw-2762-2017130887
+649,"$930,000 ",MARSDEN PARK,NSW,2765,"Address Available on Request, ",340m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/address-available-on-request-marsden-park-nsw-2765-2017047614
+650,"$470,000 ",RUN-O-WATERS,NSW,2580,"102 Knowlman   Road, ",,Vacant land,,,,https://www.domain.com.au/102-knowlman-road-run-o-waters-nsw-2580-2017139257
+651,Price on Request ,WAVERTON,NSW,2060,"40 Euroka Street, ",224m² ,House,3 Beds,3 Baths,1 Parking,https://www.domain.com.au/40-euroka-street-waverton-nsw-2060-2017139244
+652,Expressions of Interest ,MANYANA,NSW,2539,"9 Manyana Drive, ",722m² ,House,3 Beds,2 Baths,4 Parking,https://www.domain.com.au/9-manyana-drive-manyana-nsw-2539-2017139243
+653,"$465,000 ",CESSNOCK,NSW,2325,"12 Comfort Avenue, ",676m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/12-comfort-avenue-cessnock-nsw-2325-2017139239
+654,"$630,000 - $670,000 ",KANAHOOKA,NSW,2530,"10/78 Kanahooka Road, ",,Townhouse,,,,https://www.domain.com.au/10-78-kanahooka-road-kanahooka-nsw-2530-2017139235
+655,Contact Agent ,MOUNT PRITCHARD,NSW,2170,"45 Anderson Avenue, ","3,696m² ",House,− 0 Beds,13 Baths,13 Parking,https://www.domain.com.au/45-anderson-avenue-mount-pritchard-nsw-2170-2017139231
+656,"$649,881 ",MEDOWIE,NSW,2318,"913 Hillgrove Street, ",528m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/913-hillgrove-street-medowie-nsw-2318-2017139230
+657,"$736,604 ",MEDOWIE,NSW,2318,"907 Macadamia Circuit, ",580m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/907-macadamia-circuit-medowie-nsw-2318-2017139229
+658,Contact Agents ,BELLEVUE HILL,NSW,2023,"10/51 Birriga Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/10-51-birriga-road-bellevue-hill-nsw-2023-2017139198
+659,"$1,400,000-$1,500,000 ",WAMBERAL,NSW,2260,"130 Blue Bell Drive, ",651m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/130-blue-bell-drive-wamberal-nsw-2260-2017118065
+660,"$395,000 ",CASINO,NSW,2470,"3 Barling Street, ",834m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/3-barling-street-casino-nsw-2470-2017139228
+661,CONTACT AGENT ,NELSONS PLAINS,NSW,2324,"11 Sophia Jane Drive, ","15,800m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/11-sophia-jane-drive-nelsons-plains-nsw-2324-2017139227
+662,"$684,174 ",MEDOWIE,NSW,2318,"901 Macadamia Circuit, ",549m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/901-macadamia-circuit-medowie-nsw-2318-2017139223
+663,"$640,331 ",MEDOWIE,NSW,2318,"918 Hillgrove Street, ",511m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/918-hillgrove-street-medowie-nsw-2318-2017139222
+664,"$728,450 ",MEDOWIE,NSW,2318,"916 Hillgrove Street, ",561m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/916-hillgrove-street-medowie-nsw-2318-2017139221
+665,"$756,401 ",MEDOWIE,NSW,2318,"903 Macadamia Circuit, ",602m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/903-macadamia-circuit-medowie-nsw-2318-2017139220
+666,"$2,400,000 - $2,500,000 ",CARINGBAH,NSW,2229,"17 Carabella Road, ",663m² ,House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/17-carabella-road-caringbah-nsw-2229-2017139212
+667,JUST LISTED | R3 Zone with Dual Occupancy ,KINGSWOOD,NSW,2747,"14 PARK AVENUE, ",721m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/14-park-avenue-kingswood-nsw-2747-2017139201
+668,Expressions of interest ,NERRIGA,NSW,2622,"307 Quilty Road, Wog Wog, ",,Rural,,,,https://www.domain.com.au/307-quilty-road-wog-wog-nerriga-nsw-2622-2017139194
+669,"$369,950 /  HAMPDEN ROAD ",LAKEMBA,NSW,2195,"8/83 Hampden Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8-83-hampden-road-lakemba-nsw-2195-2017139190
+670,"$1,049,000 ",HAMLYN TERRACE,NSW,2259,"38 Virginia Road, ",491m² ,House & Land,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/38-virginia-road-hamlyn-terrace-nsw-2259-2017109711
+671,Expressions of Interest ,ALBION PARK RAIL,NSW,2527,"22 Spoonbill Place, ",887m² ,House,5 Beds,3 Baths,3 Parking,https://www.domain.com.au/22-spoonbill-place-albion-park-rail-nsw-2527-2017139182
+672,"$245,000 ",LONG BEACH,NSW,2536,"108B Blairs Road, ",,Vacant land,,,,https://www.domain.com.au/108b-blairs-road-long-beach-nsw-2536-2017139172
+673,NEW TO MARKET ,OAK FLATS,NSW,2529,"2 Nakina Place, ",659m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/2-nakina-place-oak-flats-nsw-2529-2017139166
+674,"From $689,000 ",CARDIFF SOUTH,NSW,2285,"4, 8 & 12 Terence Street, ",288m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/4-8-12-terence-street-cardiff-south-nsw-2285-2017139164
+675,JUST LISTED! ,LETHBRIDGE PARK,NSW,2770,"8 Le Maire Avenue, ",,House,,,,https://www.domain.com.au/8-le-maire-avenue-lethbridge-park-nsw-2770-2017139162
+676,"$680,000 to $720,000 ",WILTON,NSW,2571,,,House,,,,https://www.domain.com.au/wilton-nsw-2571-2017139154
+677,CONTACT AGENT ,RENWICK,NSW,2575,"24 Windeyer Street, ",,House,,,,https://www.domain.com.au/24-windeyer-street-renwick-nsw-2575-2017139157
+678,"From $3,250,000 ",MONA VALE,NSW,2103,"50-52 Golf Avenue, ",393m² ,New Apartments / Off the Plan,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/50-52-golf-avenue-mona-vale-nsw-2103-2016811606
+679,"Guide $660,000 - $690,000 ",BUTTABA,NSW,2283,"17 Southampton Avenue, ",682m² ,House,4 Beds,1 Bath,4 Parking,https://www.domain.com.au/17-southampton-avenue-buttaba-nsw-2283-2017139150
+680,Auction ,BONDI BEACH,NSW,2026,"15a & 15b Lamrock Avenue, ",,House,,,,https://www.domain.com.au/15a-15b-lamrock-avenue-bondi-beach-nsw-2026-2017139149
+681,"Guide $600,000 ",MARRICKVILLE,NSW,2204,"18/85 Beauchamp Street, ",66m² ,Apartment / Unit / Flat,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/18-85-beauchamp-street-marrickville-nsw-2204-2017139145
+682,Great block - We are selling!! ,HOSKINSTOWN,NSW,2621,"1996 Hoskinstown Road, ",,Vacant land,,,,https://www.domain.com.au/1996-hoskinstown-road-hoskinstown-nsw-2621-2017139138
+683,"$589,000 ",YASS,NSW,2582,"9 Shantalla Crescent, ",822m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/9-shantalla-crescent-yass-nsw-2582-2017139137
+684,"$649,000 ",DAPTO,NSW,2530,"101 Laver Road, ",594m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/101-laver-road-dapto-nsw-2530-2017139135
+685,Contact Agent ,ORANGE,NSW,2800,"5 McCormick Place, ","4,012m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/5-mccormick-place-orange-nsw-2800-2017138792
+686,Offers Invited ,ALBION PARK RAIL,NSW,2527,"17 Fir Crescent, ",556m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/17-fir-crescent-albion-park-rail-nsw-2527-2017139130
+687,Contact Agent ,DOONSIDE,NSW,2767,"5 Bradfield Place, ",620m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/5-bradfield-place-doonside-nsw-2767-2017139128
+688,Forthcoming Auction ,KATOOMBA,NSW,2780,"35-41 Explorers Road, ","11,000m² ",House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/35-41-explorers-road-katoomba-nsw-2780-2017139123
+689,"$825,000 ",NORTHMEAD,NSW,2152,"C13/1 Centenary Avenue, ",,Retirement Living,,,,https://www.domain.com.au/c13-1-centenary-avenue-northmead-nsw-2152-2017139121
+690,"Auction Sat, 7th Aug at 1pm ",WARRAWEE,NSW,2074,"47/1389-1397 Pacific Highway, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/47-1389-1397-pacific-highway-warrawee-nsw-2074-2017139108
+691,"$550,000 ",BANORA POINT,NSW,2486,"26 Lilly Pilly Drive, ",383m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/26-lilly-pilly-drive-banora-point-nsw-2486-2017139107
+692,Auction: Price on Application ,CHIPPENDALE,NSW,2008,"305/1 Meagher  Street, ",,Studio,,,,https://www.domain.com.au/305-1-meagher-street-chippendale-nsw-2008-2017139092
+693,Forthcoming Auction ,CARTWRIGHT,NSW,2168,"183 Hoxton Park Road, ",613m² ,House,3 Beds,1 Bath,3 Parking,https://www.domain.com.au/183-hoxton-park-road-cartwright-nsw-2168-2017139091
+694,2 Years Young In The Gables ,BOX HILL,NSW,2765,"14 Forelle  Street, ",351m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/14-forelle-street-box-hill-nsw-2765-2017139090
+695,"$625,000 ",CATALINA,NSW,2536,"1 & 2/29 Albatross Road, ",641m² ,Block of Units,5 Beds,2 Baths,4 Parking,https://www.domain.com.au/1-2-29-albatross-road-catalina-nsw-2536-2017139089
+696,"FOR SALE: $359,000 ",STRATHFIELD,NSW,2135,"4/537 LIVERPOOL ROAD, ",,Studio,,,,https://www.domain.com.au/4-537-liverpool-road-strathfield-nsw-2135-2017139085
+697,"$780,000 ",CRINGILA,NSW,2502,"16 Birmingham Street, ",499m² ,House,5 Beds,2 Baths,1 Parking,https://www.domain.com.au/16-birmingham-street-cringila-nsw-2502-2017139078
+698,"$785,000 ",ALBURY,NSW,2640,"737 Forrest Hill Avenue, ",880m² ,House,3 Beds,1 Bath,3 Parking,https://www.domain.com.au/737-forrest-hill-avenue-albury-nsw-2640-2017139017
+699,Contact Agent ,ORANGE,NSW,2800,"1 Icely Road, ","1,043m² ",House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/1-icely-road-orange-nsw-2800-2017139061
+700,Contact Agent ,WILLOUGHBY,NSW,2068,"3/156-172 Penshurst  Street, ",78m² ,Apartment / Unit / Flat,1 Bed,1 Bath,1 Parking,https://www.domain.com.au/3-156-172-penshurst-street-willoughby-nsw-2068-2017139058
+701,For sale | Contact Perry Steiner ,GLADESVILLE,NSW,2111,"38/165 Victoria Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/38-165-victoria-road-gladesville-nsw-2111-2017134427
+702,"Buyer's Guide $2,850,000 ",MAROUBRA,NSW,2035,"22 Everett Street, ",400m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/22-everett-street-maroubra-nsw-2035-2017139044
+703,"$350,000 ",BINGARA,NSW,2404,"22 Faithful Street, ","4,047m² ",House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/22-faithful-street-bingara-nsw-2404-2017139042
+704,Auction: 21st August at 12.15pm(Unless Sold Prior) ,EASTWOOD,NSW,2122,"1/1 Valley  Road, ",,Semi-Detached,,,,https://www.domain.com.au/1-1-valley-road-eastwood-nsw-2122-2017139040
+705,"$370,000 ",NARRANDERA,NSW,2700,"2/100 Adams Street, ",832m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/2-100-adams-street-narrandera-nsw-2700-2017139039
+706,"$549,000 ",FORSTER,NSW,2428,"32 The Corso, ",,House,,,,https://www.domain.com.au/32-the-corso-forster-nsw-2428-2017139028
+707,Expressions of Interest ,URANA,NSW,2645,". Lake Road, ",,Rural,,,,https://www.domain.com.au/-lake-road-urana-nsw-2645-2017139027
+708,Contact Agent ,CRONULLA,NSW,2230,"178 Nicholson Parade, ","1,037m² ",House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/178-nicholson-parade-cronulla-nsw-2230-2017139023
+709,"$435,000 Negotiable!!! ",MERRYLANDS,NSW,2160,"19/285 Merrylands Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/19-285-merrylands-road-merrylands-nsw-2160-2016938489
+710,Contact Agent ,CARINGBAH SOUTH,NSW,2229,"30 Grandview Parade, ",632m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/30-grandview-parade-caringbah-south-nsw-2229-2017139006
+711,"$870,000 - $910,000 ",MOUNT ANNAN,NSW,2567,,473m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/mount-annan-nsw-2567-2017139005
+712,"$510,000 ",WEST KEMPSEY,NSW,2440,"70 River Street, ",714m² ,House,3 Beds,1 Bath,3 Parking,https://www.domain.com.au/70-river-street-west-kempsey-nsw-2440-2017139001
+713,"$790,000 - $850,000 ",BRADBURY,NSW,2560,"8 Uther Avenue, ",822m² ,House,6 Beds,3 Baths,1 Parking,https://www.domain.com.au/8-uther-avenue-bradbury-nsw-2560-2017139000
+714,AUCTION  Call today to book your private viewing ,CASULA,NSW,2170,"3 Brushtail Court, ",321m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/3-brushtail-court-casula-nsw-2170-2017138995
+715,"$850,000 - $900,000 ",COFFS HARBOUR,NSW,2450,"9 Aston Close, ","1,095m² ",House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/9-aston-close-coffs-harbour-nsw-2450-2017138994
+716,New to Market! ,NARELLAN,NSW,2567,"3&3A Aubert Street, ",665m² ,House,6 Beds,4 Baths,− Parking,https://www.domain.com.au/3-3a-aubert-street-narellan-nsw-2567-2017138993
+717,"Price Guide: $1,050,000 ",LONG JETTY,NSW,2261,"2 Graham Street, ",506m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/2-graham-street-long-jetty-nsw-2261-2017138985
+718,New To Market ,MINTO,NSW,2566,"16 Francis Street, ",,House,,,,https://www.domain.com.au/16-francis-street-minto-nsw-2566-2017138984
+719,"$780,000 to $820,000 ",NORTH BATEMANS BAY,NSW,2536,"4 Lord Place, ",944m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/4-lord-place-north-batemans-bay-nsw-2536-2017138978
+720,auction ,AUBURN,NSW,2144,"41 Meroo Street, ",490m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/41-meroo-street-auburn-nsw-2144-2017138972
+721,"$1,295,000 - $1,395,000 ",NUNDERI,NSW,2484,"35 GARDEN AVENUE, ","2,690m² ",House,6 Beds,3 Baths,4 Parking,https://www.domain.com.au/35-garden-avenue-nunderi-nsw-2484-2017138968
+722,"Auction | Guide $430,000 - $470,000 ",GRIFFITH,NSW,2680,"11 Doongara Street, ",917m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/11-doongara-street-griffith-nsw-2680-2017138963
+723,"$679,990 - $729,990 ",BRADBURY,NSW,2560,"17 Summers Place, ",688m² ,House,4 Beds,1 Bath,1 Parking,https://www.domain.com.au/17-summers-place-bradbury-nsw-2560-2017138961
+724,Contact Agent ,ALSTONVILLE,NSW,2477,"216 Pearces Creek Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/216-pearces-creek-road-alstonville-nsw-2477-2017138951
+725,600m to Metro station ,THE PONDS,NSW,2769,"41 Amarco Circuit, ",453m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/41-amarco-circuit-the-ponds-nsw-2769-2017138945
+726,EOI Close 20 August - If Not Sold Prior ,TEA GARDENS,NSW,2324,"13 Coupland Avenue, ","1,012m² ",House,4 Beds,5 Baths,3 Parking,https://www.domain.com.au/13-coupland-avenue-tea-gardens-nsw-2324-2017138934
+727,"$689,950 - $749,950 ",BRADBURY,NSW,2560,"5 Cedar Avenue, ",575m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/5-cedar-avenue-bradbury-nsw-2560-2017138929
+728,"$399,950-$439,950 ",ST HELENS PARK,NSW,2560,"2/53 Woodland Road, ",,Villa,,,,https://www.domain.com.au/2-53-woodland-road-st-helens-park-nsw-2560-2017138927
+729,Auction 7 August ,COOGEE,NSW,2034,"157 Oberon Street, ",,House,,,,https://www.domain.com.au/157-oberon-street-coogee-nsw-2034-2017138925
+730,"$780,000 - $830,000 ",ESCHOL PARK,NSW,2558,"78 Semillon Crescent, ",558m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/78-semillon-crescent-eschol-park-nsw-2558-2017138924
+731,For Sale - Contact Agent ,WILEY PARK,NSW,2195,"6/20 Clio Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/6-20-clio-street-wiley-park-nsw-2195-2017138922
+732,Price on Request ,NEUTRAL BAY,NSW,2089,"1/2 Colindia Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-2-colindia-avenue-neutral-bay-nsw-2089-2016971324
+733,"Price Guide $629,000 to $649,000 ",PORT MACQUARIE,NSW,2444,"27 Brierley Avenue, ",390m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/27-brierley-avenue-port-macquarie-nsw-2444-2017138911
+734,"For Sale Guide $625,000 ",FAIRLIGHT,NSW,2094,"4/18 Edwin Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-18-edwin-street-fairlight-nsw-2094-2017138906
+735,"$709,270 ",MEDOWIE,NSW,2318,"Lot 706 Macadamia Cct, ",624m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-706-macadamia-cct-medowie-nsw-2318-2017138903
+736,"$399,000-$438,900 ",NAMBUCCA HEADS,NSW,2448,"16 Edgewater Dr, ",,Vacant land,,,,https://www.domain.com.au/16-edgewater-dr-nambucca-heads-nsw-2448-2017138902
+737,"$880,000 - $900,000 ",FIGTREE,NSW,2525,"6 McDonough Avenue, ",,House,,,,https://www.domain.com.au/6-mcdonough-avenue-figtree-nsw-2525-2017138893
+738,"$495,000 ",COOMA,NSW,2630,"28-31/24 Mittagang Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/28-31-24-mittagang-road-cooma-nsw-2630-2017138891
+739,"$695,000 - $750,000 ",CAMERON PARK,NSW,2285,"7 Vesta  Street, ",551m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-vesta-street-cameron-park-nsw-2285-2017138889
+740,"For Sale $500,000 - $550,000 ",ALEXANDRIA,NSW,2015,"5/168-170 Botany Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-168-170-botany-road-alexandria-nsw-2015-2017138888
+741,"$450,000 - $495,000 ",GRETA,NSW,2334,"6 Price Street, ",911m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/6-price-street-greta-nsw-2334-2017138886
+742,New To Market ,NIAGARA PARK,NSW,2250,"8 Kindarun Close, ",599m² ,House,3 Beds,1 Bath,− Parking,https://www.domain.com.au/8-kindarun-close-niagara-park-nsw-2250-2017138880
+743,Auction ,NORTH KELLYVILLE,NSW,2155,"12 McCarthy Street, ",,House,,,,https://www.domain.com.au/12-mccarthy-street-north-kellyville-nsw-2155-2017138874
+744,"$230,000 ",WALCHA,NSW,2354,,,House,,,,https://www.domain.com.au/walcha-nsw-2354-2017138873
+745,Expressions of Interest ,BARHAM,NSW,2732,"4/16-18 Yarrein Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/4-16-18-yarrein-street-barham-nsw-2732-2017138862
+746,"$395,000 ",SHOAL BAY,NSW,2315,"712/43 Shoal Bay Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/712-43-shoal-bay-road-shoal-bay-nsw-2315-2017138849
+747,PREVIEW ,TELARAH,NSW,2320,"4 Telarah Street, ",610m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/4-telarah-street-telarah-nsw-2320-2017138846
+748,"$225,000 ",SPRINGDALE HEIGHTS,NSW,2641,"639 kemp street, ",,Retirement Living,,,,https://www.domain.com.au/639-kemp-street-springdale-heights-nsw-2641-2017138843
+749,FOR SALE BY EOI ,WEETHALLE,NSW,2669,"4034 Kolkilbertoo Rd, ",,Specialist Farm,,,,https://www.domain.com.au/4034-kolkilbertoo-rd-weethalle-nsw-2669-2017138839
+750,"For Sale $790,000 - $860,000 ",UNANDERRA,NSW,2526,"22 Poplar Avenue, ",635m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/22-poplar-avenue-unanderra-nsw-2526-2017138836
+751,"$359,950 ",PUNCHBOWL,NSW,2196,"2/104 Victoria Rd, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-104-victoria-rd-punchbowl-nsw-2196-2017138814
+752,Open To Offers! ,EAST LISMORE,NSW,2480,"69B Dalley St, ",,House,,,,https://www.domain.com.au/69b-dalley-st-east-lismore-nsw-2480-2017138826
+753,"Asking $499,000 ",WOLLONGONG,NSW,2500,"5/6 Parkside Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-6-parkside-avenue-wollongong-nsw-2500-2017138822
+754,"Buyers Guide $4,000,000 ",BRONTE,NSW,2024,"29 Evans Street, ",269m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/29-evans-street-bronte-nsw-2024-2017138817
+755,Expressions of Interest ,BOLWARRA,NSW,2320,"3 Victoria Road, ",835m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/3-victoria-road-bolwarra-nsw-2320-2017138803
+756,"$649,000 ",TARAGO,NSW,2580,"12 Rosebery Street, ","3,402m² ",House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/12-rosebery-street-tarago-nsw-2580-2017138801
+757,Auction ,DUBBO,NSW,2830,"78 Baird Drive, ",,Duplex,,,,https://www.domain.com.au/78-baird-drive-dubbo-nsw-2830-2017138798
+758,"$480,000 - $530,000 ",CAMPBELLTOWN,NSW,2560,"G04/32 Chamberlain Street, ",141m² ,Apartment / Unit / Flat,2 Beds,2 Baths,2 Parking,https://www.domain.com.au/g04-32-chamberlain-street-campbelltown-nsw-2560-2017138797
+759,"$590,000 - $640,000 ",WARILLA,NSW,2528,"58 Mccabe Street, ",575m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/58-mccabe-street-warilla-nsw-2528-2017138794
+760,Auction ,CRESTWOOD,NSW,2620,"34A Lorn Road, ",95m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/34a-lorn-road-crestwood-nsw-2620-2017138793
+761,Auction unless sold prior ,NORTH SYDNEY,NSW,2060,"27/174 Pacific Highway, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/27-174-pacific-highway-north-sydney-nsw-2060-2017138791
+762,FOR SALE | GEORGE KAMBOUROGLOU ,ALEXANDRIA,NSW,2015,"9/1 Henderson  Road, ",,Studio,,,,https://www.domain.com.au/9-1-henderson-road-alexandria-nsw-2015-2017138790
+763,FOR SALE | SAM ABBAS ,ARNCLIFFE,NSW,2205,"621/18 Bonar  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/621-18-bonar-street-arncliffe-nsw-2205-2017138789
+764,FOR SALE | SAM ABBAS ,ARNCLIFFE,NSW,2205,"39/63 - 69 Bonar  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/39-63-69-bonar-street-arncliffe-nsw-2205-2017138787
+765,"$950,000 ",FAIRFIELD WEST,NSW,2165,"251 Hamilton Rd, ",265m² ,Semi-Detached,5 Beds,3 Baths,1 Parking,https://www.domain.com.au/251-hamilton-rd-fairfield-west-nsw-2165-2017138783
+766,"$1,200,000 ",VALLA BEACH,NSW,2448,"104 Ocean View Drive, ",939m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/104-ocean-view-drive-valla-beach-nsw-2448-2017138775
+767,"$220,000 ",LEETON,NSW,2705,"7-13 Poplar Avenue, ",,Vacant land,,,,https://www.domain.com.au/7-13-poplar-avenue-leeton-nsw-2705-2017138773
+768,"$425,000 ",SOUTH KEMPSEY,NSW,2440,"72 Blairs Lane, ","10,000m² ",House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/72-blairs-lane-south-kempsey-nsw-2440-2017138762
+769,"$900,000 - $990,000 ",WOODFORD,NSW,2778,"19 HOVEA PLACE, ","1,857m² ",House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/19-hovea-place-woodford-nsw-2778-2017125538
+770,"$725,000 to $755,000 ",CHISHOLM,NSW,2322,"58 Watervale Circuit, ",630m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/58-watervale-circuit-chisholm-nsw-2322-2017138758
+771,"Price Guide $650,000-$700,000 ",BOLWARRA HEIGHTS,NSW,2320,"31 Highland Way, ",484m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/31-highland-way-bolwarra-heights-nsw-2320-2017138757
+772,"$849,000 ",SOUTH KEMPSEY,NSW,2440,"18 Daley Place, ","10,000m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/18-daley-place-south-kempsey-nsw-2440-2017138756
+773,Urgent Sale Expression of Interest ,ST LEONARDS,NSW,2065,"1 Bed/500 Pacific Highway, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/1-bed-500-pacific-highway-st-leonards-nsw-2065-2015943894
+774,"Auction Price Guide $570,000 - $600,000 ",LAKE CATHIE,NSW,2445,"6/2 Aqua Crescent, ",,Villa,,,,https://www.domain.com.au/6-2-aqua-crescent-lake-cathie-nsw-2445-2017138745
+775,Contact Agent ,YAGOONA,NSW,2199,"39 McMahon St, ",468m² ,House,6 Beds,3 Baths,2 Parking,https://www.domain.com.au/39-mcmahon-st-yagoona-nsw-2199-2017138743
+776,"$1,500,000 ",BAW BAW,NSW,2580,"237 Mount Baw Baw Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/237-mount-baw-baw-road-baw-baw-nsw-2580-2017138739
+777,"$380,000 ",DUBBO,NSW,2830,"33 Furlong Street, ","1,131m² ",House,3 Beds,1 Bath,5 Parking,https://www.domain.com.au/33-furlong-street-dubbo-nsw-2830-2017138737
+778,Contact Agent ,CROYDON,NSW,2132,"25 Hammond Avenue, ",803m² ,House,4 Beds,3 Baths,4 Parking,https://www.domain.com.au/25-hammond-avenue-croydon-nsw-2132-2017138729
+779,"$500,000 - $550,000 ",DAPTO,NSW,2530,"89 Yalunga Street, ",563m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/89-yalunga-street-dapto-nsw-2530-2017138724
+780,"$849,000 ",MORUYA,NSW,2537,"27 Maluka Avenue, ","1,680m² ",House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/27-maluka-avenue-moruya-nsw-2537-2017138723
+781,Price Guide $1.7ml ,SLEEPY HOLLOW,NSW,2483,"39 Warwick Park Road, ","20,000m² ",House,4 Beds,2 Baths,6 Parking,https://www.domain.com.au/39-warwick-park-road-sleepy-hollow-nsw-2483-2017138718
+782,INSPECTIONS WELCOME VIA APPOINTMENT ,LANE COVE,NSW,2066,"101/9-13 Birdwood Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/101-9-13-birdwood-avenue-lane-cove-nsw-2066-2017138707
+783,"$160,000 ",DENILIQUIN,NSW,2710,"400 Wood Street, ",,Vacant land,,,,https://www.domain.com.au/400-wood-street-deniliquin-nsw-2710-2017138706
+784,"$175,000 ",NARRANDERA,NSW,2700,"28 May Street, ",632m² ,House,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/28-may-street-narrandera-nsw-2700-2017138705
+785,FORTHCOMING AUCTION ,MENANGLE,NSW,2568,"156 Cummins Road, ",3.35ha ,House,5 Beds,2 Baths,7 Parking,https://www.domain.com.au/156-cummins-road-menangle-nsw-2568-2017138702
+786,"AUCTION - GUIDE $950,000 ",QUEENSCLIFF,NSW,2096,"2/109 Queenscliff Road, ",88m² ,Apartment / Unit / Flat,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/2-109-queenscliff-road-queenscliff-nsw-2096-2017138699
+787,"$439,000 ",MOREE,NSW,2400,"7 Crane Place, ","1,415m² ",House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/7-crane-place-moree-nsw-2400-2017138698
+788,"$215,000 ",CONDOBOLIN,NSW,2877,"56 Parkes Road, ",,House,,,,https://www.domain.com.au/56-parkes-road-condobolin-nsw-2877-2017138697
+789,Contact Agent ,MOUNT DRUITT,NSW,2770,"17/51-57 Meacher  Street, ",,Townhouse,,,,https://www.domain.com.au/17-51-57-meacher-street-mount-druitt-nsw-2770-2017138695
+790,Private Inspections - 7 Days ,KELLYVILLE RIDGE,NSW,2155,"23/10 Merriville Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/23-10-merriville-road-kellyville-ridge-nsw-2155-2017138690
+791,Forthcoming Auction ,MOUNT WARRIGAL,NSW,2528,"25 Cuthbert Drive, ","1,050m² ",House,5 Beds,2 Baths,3 Parking,https://www.domain.com.au/25-cuthbert-drive-mount-warrigal-nsw-2528-2017138684
+792,Auction - If Not Sold Prior ,BALGOWLAH,NSW,2093,"4/435-437 Sydney Road, ",,Townhouse,,,,https://www.domain.com.au/4-435-437-sydney-road-balgowlah-nsw-2093-2017138682
+793,"$170,000 ",ARMIDALE,NSW,2350,"Lot 517 Pasture Street, ",,Vacant land,,,,https://www.domain.com.au/lot-517-pasture-street-armidale-nsw-2350-2017138681
+794,Forthcoming Auction ,WOOLLAHRA,NSW,2025,"13/1-3 Fullerton Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/13-1-3-fullerton-street-woollahra-nsw-2025-2017138680
+795,EXPRESSIONS OF INTEREST ,WAGGA WAGGA,NSW,2650,"106 Gurwood Street, ","1,037m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/106-gurwood-street-wagga-wagga-nsw-2650-2017138676
+796,"$650,000 ",SANCTUARY POINT,NSW,2540,"71 Leumeah  Street, ",663m² ,House,4 Beds,3 Baths,5 Parking,https://www.domain.com.au/71-leumeah-street-sanctuary-point-nsw-2540-2017138673
+797,Auction Preview ,FORBES,NSW,2871,"95 Sam Street, ","1,663m² ",House,3 Beds,2 Baths,14 Parking,https://www.domain.com.au/95-sam-street-forbes-nsw-2871-2017138672
+798,"Auction 11am, Wednesday 25th August 2021 ",COONAMBLE,NSW,2829,,,Rural,,,,https://www.domain.com.au/coonamble-nsw-2829-2017138664
+799,"$455,000 ",SOUTH BATHURST,NSW,2795,"57 College Road, ",800m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/57-college-road-south-bathurst-nsw-2795-2017138662
+800,"$740,000 - $760,000 ",MOAMA,NSW,2731,"144 Mayflower Drive, ",605m² ,Vacant land,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/144-mayflower-drive-moama-nsw-2731-2017138661
+801,Contact Agent ,COLO VALE,NSW,2575,"13 Stringybark Close, ","1,080m² ",House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/13-stringybark-close-colo-vale-nsw-2575-2017138657
+802,Offers Invited ,DUBBO,NSW,2830,"2/73-75 Macleay Street, ",,Villa,,,,https://www.domain.com.au/2-73-75-macleay-street-dubbo-nsw-2830-2017138656
+803,Contact Agent ,KILLARNEY VALE,NSW,2261,"54 Yimbala Street, ",481m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/54-yimbala-street-killarney-vale-nsw-2261-2017138654
+804,"$369,000 ",PENRITH,NSW,2750,"107/37 Mulgoa  Road, ",,Retirement Living,,,,https://www.domain.com.au/107-37-mulgoa-road-penrith-nsw-2750-2017138653
+805,"$570,000 - $620,000 ",AMBARVALE,NSW,2560,"42 Holborn Street, ",,Villa,,,,https://www.domain.com.au/42-holborn-street-ambarvale-nsw-2560-2017138650
+806,Just Listed on Auction ! ,BOX HILL,NSW,2765,"36 & 36A Cart Street, ",452m² ,House,7 Beds,4 Baths,2 Parking,https://www.domain.com.au/36-36a-cart-street-box-hill-nsw-2765-2017138647
+807,"$585,000-$615,000 ",SINGLETON,NSW,2330,"40 William Street, ",759m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/40-william-street-singleton-nsw-2330-2017138645
+808,"$585,000-$615,000 ",SINGLETON,NSW,2330,"40 William Street, ",759m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/40-william-street-singleton-nsw-2330-2017138645
+809,Contact Agent ,YAGOONA,NSW,2199,"41 McMahon Road, ",481m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/41-mcmahon-road-yagoona-nsw-2199-2017138644
+810,"Auction On Site Sat, 7th Aug at 3pm ",TURRAMURRA,NSW,2074,"20 Timaru Street, ",923m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/20-timaru-street-turramurra-nsw-2074-2017138636
+811,"$650,000 ",SANCTUARY POINT,NSW,2540,"71 Leumeah  Street, ",663m² ,House,4 Beds,3 Baths,5 Parking,https://www.domain.com.au/71-leumeah-street-sanctuary-point-nsw-2540-2017138634
+812,"$520,000 ",WARRAWONG,NSW,2502,"10/68 Jane Avenue, ",,Townhouse,,,,https://www.domain.com.au/10-68-jane-avenue-warrawong-nsw-2502-2017138631
+813,"$164,000 ",ARMIDALE,NSW,2350,"Lot 508 Pasture Street, ",,Vacant land,,,,https://www.domain.com.au/lot-508-pasture-street-armidale-nsw-2350-2017138629
+814,Auction ,EVANS HEAD,NSW,2473,"19 Cypress Street, ",505m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/19-cypress-street-evans-head-nsw-2473-2017138626
+815,"$700,000 - $750,000 ",CHARLESTOWN,NSW,2290,"1/21 Wakal Street, ",,Townhouse,,,,https://www.domain.com.au/1-21-wakal-street-charlestown-nsw-2290-2017138625
+816,"Auction | Guide $400,000 - $440,000 ",GRIFFITH,NSW,2680,"105 Citrus Road, ",702m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/105-citrus-road-griffith-nsw-2680-2017138623
+817,"$820,000 ",TARRAGANDA,NSW,2550,"27 Nullica Road, ","4,877m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/27-nullica-road-tarraganda-nsw-2550-2017138610
+818,Auction ,DEE WHY,NSW,2099,"20/2 Monash  Parade, ",,Studio,,,,https://www.domain.com.au/20-2-monash-parade-dee-why-nsw-2099-2017138596
+819,Contact Agent ,APPIN,NSW,2560,"Lot 4 10-12 Bulli Appin Road, ",,Vacant land,,,,https://www.domain.com.au/lot-4-10-12-bulli-appin-road-appin-nsw-2560-2017138595
+820,"$585,000 ",ROCKDALE,NSW,2216,"10/21-23 Keats Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/10-21-23-keats-avenue-rockdale-nsw-2216-2017138585
+821,"Price Guide $505,000 - $520,000 ",MUDGEE,NSW,2850,"3 Thomas Clarke  Place, ",701m² ,House,4 Beds,1 Bath,3 Parking,https://www.domain.com.au/3-thomas-clarke-place-mudgee-nsw-2850-2017138592
+822,AUCTION ,GEORGETOWN,NSW,2298,"7 Bowker Street, ",285m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/7-bowker-street-georgetown-nsw-2298-2017138581
+823,"$730,000 - $790,000 ",BRADBURY,NSW,2560,"47 Mclaughlin Circuit, ",581m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/47-mclaughlin-circuit-bradbury-nsw-2560-2017138556
+824,Forthcoming Auction | Jay King & Jordan Dias ,LILYFIELD,NSW,2040,"3/62 Mary  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/3-62-mary-street-lilyfield-nsw-2040-2017138553
+825,"$899,999 ",CAVES BEACH,NSW,2281,"167 Macquarie Grove, ",620m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/167-macquarie-grove-caves-beach-nsw-2281-2017138549
+826,"$799,000 to $849,000 ",GLENMORE PARK,NSW,2745,"12 Sunbird Terrace, ",644m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/12-sunbird-terrace-glenmore-park-nsw-2745-2017138541
+827,Auction ,COFFS HARBOUR,NSW,2450,"27-29 Raleigh  Street, ","3,340m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/27-29-raleigh-street-coffs-harbour-nsw-2450-2017138535
+828,"$235,000 ",LAVINGTON,NSW,2641,"8/516 Alldis Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/8-516-alldis-avenue-lavington-nsw-2641-2017138533
+829,"$399,000 ",LAVINGTON,NSW,2641,"561 Prune Street, ",775m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/561-prune-street-lavington-nsw-2641-2017138529
+830,"Price Guide $840,000 - $880,000 ",BRANXTON,NSW,2335,"77 Lakes Folly  Drive, ","8,660m² ",House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/77-lakes-folly-drive-branxton-nsw-2335-2017138528
+831,Auction ,EVANS HEAD,NSW,2473,"6 Lancaster Place, ",704m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/6-lancaster-place-evans-head-nsw-2473-2017138518
+832,Just Listed ,SOUTH PENRITH,NSW,2750,"5 Shandlin Place, ",736m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/5-shandlin-place-south-penrith-nsw-2750-2017138515
+833,"$240,000 ",EDEN,NSW,2551,"6/731 Princes Highway, ",,House,,,,https://www.domain.com.au/6-731-princes-highway-eden-nsw-2551-2017138514
+834,JUST LISTED ,COLEBEE,NSW,2761,"7 Coronato Parade, ",375m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/7-coronato-parade-colebee-nsw-2761-2017138512
+835,"$319,000 ",YOUNG,NSW,2594,"2/23 Thornhill Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-23-thornhill-street-young-nsw-2594-2017138509
+836,"$355,000 ",MUSWELLBROOK,NSW,2333,"19 Mitchell Street, ",689m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/19-mitchell-street-muswellbrook-nsw-2333-2017138506
+837,JUST LISTED ,TULLIMBAR,NSW,2527,"Lot 528 Bodalla Street, ",293m² ,House & Land,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/lot-528-bodalla-street-tullimbar-nsw-2527-2017138501
+838,Auction ,ALLAMBIE HEIGHTS,NSW,2100,"7/39-41 Kentwell Road, ",,Townhouse,,,,https://www.domain.com.au/7-39-41-kentwell-road-allambie-heights-nsw-2100-2017138499
+839,PREVIEW ,KOORINGAL,NSW,2650,"50 Tichborne Crescent, ",714m² ,House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/50-tichborne-crescent-kooringal-nsw-2650-2017138497
+840,UNDER OFFER ,TULLIMBAR,NSW,2527,"Lot 505 Bodalla Street, ",290m² ,House & Land,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/lot-505-bodalla-street-tullimbar-nsw-2527-2017138492
+841,"$170,000 ",LAKE CARGELLIGO,NSW,2672,"37 Canada Street, ","1,012m² ",House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/37-canada-street-lake-cargelligo-nsw-2672-2017138486
+842,"$119,000 ",MOREE,NSW,2400,"49 Albert Street, ",,Vacant land,,,,https://www.domain.com.au/49-albert-street-moree-nsw-2400-2017138482
+843,Auction Sat 14th Aug 2:30pm ,MACMASTERS BEACH,NSW,2251,"91 Beachview Esplanade, ",696m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/91-beachview-esplanade-macmasters-beach-nsw-2251-2017138479
+844,AUCTION - 21st August 2021 ,COWRA,NSW,2794,"131 Redfern Street, ",974m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/131-redfern-street-cowra-nsw-2794-2017138477
+845,Auction ,YAMBA,NSW,2464,"14 Beachside Way, ",,House,,,,https://www.domain.com.au/14-beachside-way-yamba-nsw-2464-2017138475
+846,"ASKING PRICE $340,000 ",TEMORA,NSW,2666,"8 Junee Road,, ","1,012m² ",House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/8-junee-road-temora-nsw-2666-2017138467
+847,"Buyers Guide $2,100,000 ",RYDE,NSW,2112,"49 Pooley Street, ",,House,,,,https://www.domain.com.au/49-pooley-street-ryde-nsw-2112-2017138465
+848,For Sale - Call to Inspect! ,DULWICH HILL,NSW,2203,"11/106 Wardell Road, ",,House,,,,https://www.domain.com.au/11-106-wardell-road-dulwich-hill-nsw-2203-2017138464
+849,"$825,000-$850,000 ",MAYFIELD,NSW,2304,"1A Arthur Street, ",411m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/1a-arthur-street-mayfield-nsw-2304-2017138459
+850,Contact Agent ,NORTH KELLYVILLE,NSW,2155,"71a Mapleton Avenue, ",,House,,,,https://www.domain.com.au/71a-mapleton-avenue-north-kellyville-nsw-2155-2017138455
+851,For Sale ,WOLLI CREEK,NSW,2205,"195/20 Lusty Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/195-20-lusty-street-wolli-creek-nsw-2205-2017138453
+852,For Sale - Call to Inspect! ,DULWICH HILL,NSW,2203,"24/3 Williams Parade, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/24-3-williams-parade-dulwich-hill-nsw-2203-2017138441
+853,"$791,000 ",GREGORY HILLS,NSW,2557,,300m² ,Duplex,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/gregory-hills-nsw-2557-2015499274
+854,"$607,999 - $807,999 ",PARRAMATTA,NSW,2150,,,House & Land,,,,https://www.domain.com.au/parramatta-nsw-2150-2016575502
+855,"$608,000- $1,099,999 ",CASTLE HILL,NSW,2154,,,Apartment / Unit / Flat,,,,https://www.domain.com.au/castle-hill-nsw-2154-2016350832
+856,Contact Agent ,BANKSTOWN,NSW,2200,"40 Little Road, ",,Block of Units,,,,https://www.domain.com.au/40-little-road-bankstown-nsw-2200-2014542144
+857,Contact Agent ,BANKSTOWN,NSW,2200,"71 Oxford Avenue, ",,Block of Units,,,,https://www.domain.com.au/71-oxford-avenue-bankstown-nsw-2200-2016695973
+858,Preview ,WALLSEND,NSW,2287,"5/6 Irrawang Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-6-irrawang-street-wallsend-nsw-2287-2017138360
+859,"Price Guide $1,500,000 ",BALMAIN,NSW,2041,"6 Ennis Street, ",138m² ,House,2 Beds,2 Baths,− Parking,https://www.domain.com.au/6-ennis-street-balmain-nsw-2041-2017138353
+860,Auction - Contact Agent ,WARATAH WEST,NSW,2298,"45 Allowah  Street, ",566m² ,House,2 Beds,1 Bath,− Parking,https://www.domain.com.au/45-allowah-street-waratah-west-nsw-2298-2017138304
+861,"Auction - 7 August, 2021 at 11:30AM Onsite ",AVALON BEACH,NSW,2107,"1/6 Sanctuary Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-6-sanctuary-avenue-avalon-beach-nsw-2107-2017138284
+862,Private inspection available ,WENTWORTH POINT,NSW,2127,"215/3 Amalfi Drive, ",168m² ,Apartment / Unit / Flat,2 Beds,2 Baths,3 Parking,https://www.domain.com.au/215-3-amalfi-drive-wentworth-point-nsw-2127-2017138277
+863,Auction ,MOSMAN,NSW,2088,"4 Gladstone Avenue, ",708m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/4-gladstone-avenue-mosman-nsw-2088-2017138274
+864,Forthcoming Auction ,LIMEKILNS,NSW,2795,"2642 Limekilns Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/2642-limekilns-road-limekilns-nsw-2795-2017138271
+865,AUCTION ,KELLYVILLE,NSW,2155,"17 Balmoral Road, ",700m² ,House,6 Beds,3 Baths,3 Parking,https://www.domain.com.au/17-balmoral-road-kellyville-nsw-2155-2017138192
+866,e365 Preview ,CAMERON PARK,NSW,2285,"6 Nightingale Crescent, ",656m² ,House,3 Beds,2 Baths,3 Parking,https://www.domain.com.au/6-nightingale-crescent-cameron-park-nsw-2285-2017138126
+867,"Auction On Site Sat, 7th Aug at 3pm ",ST IVES,NSW,2075,"26 Benaroon Avenue, ",810m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/26-benaroon-avenue-st-ives-nsw-2075-2017138122
+868,"Price Guide: $680,000 ",CROWS NEST,NSW,2065,"13/140 Ernest  Street, ",64m² ,Apartment / Unit / Flat,1 Bed,1 Bath,1 Parking,https://www.domain.com.au/13-140-ernest-street-crows-nest-nsw-2065-2017138121
+869,Forthcoming Auction ,BRONTE,NSW,2024,"1 Blandford Avenue, ",569m² ,House,3 Beds,3 Baths,2 Parking,https://www.domain.com.au/1-blandford-avenue-bronte-nsw-2024-2017138100
+870,Auction ( Unless sold prior) ,MASCOT,NSW,2020,"7 Wentworth Avenue, ",493m² ,House,2 Beds,1 Bath,2 Parking,https://www.domain.com.au/7-wentworth-avenue-mascot-nsw-2020-2017138087
+871,"Buyer Guide $1,200,000 ",COOGEE,NSW,2034,"6/97 Beach Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/6-97-beach-street-coogee-nsw-2034-2017138055
+872,"$749,000 ",HEBERSHAM,NSW,2770,"157-157A Jersey Road, ",670m² ,House,5 Beds,2 Baths,2 Parking,https://www.domain.com.au/157-157a-jersey-road-hebersham-nsw-2770-2017138012
+873,AUCTION | MUST CALL TO INSPECT 1 ON 1 ,GREENACRE,NSW,2190,"3 Abel Street, ",519m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/3-abel-street-greenacre-nsw-2190-2017138001
+874,Contact agent ,PICTON,NSW,2571,"25 The Ironbarks, ","4,126m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/25-the-ironbarks-picton-nsw-2571-2017138000
+875,"Auction Saturday 31 July, 4pm ",TURRAMURRA,NSW,2074,"204/28 Turramurra Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/204-28-turramurra-avenue-turramurra-nsw-2074-2017137990
+876,"Bidding guide $950,000 ",FRESHWATER,NSW,2096,"4/109 Wyuna Avenue, ",93m² ,Apartment / Unit / Flat,2 Beds,1 Bath,1 Parking,https://www.domain.com.au/4-109-wyuna-avenue-freshwater-nsw-2096-2017137970
+877,Just Listed | Forthcoming Auction ,RYDALMERE,NSW,2116,"4 Kirby Street, ",581m² ,House,4 Beds,1 Bath,3 Parking,https://www.domain.com.au/4-kirby-street-rydalmere-nsw-2116-2017137955
+878,By Negotiation ,COWRA,NSW,2794,"6 Henderson Street, ",689m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/6-henderson-street-cowra-nsw-2794-2017075119
+879,"Guide $900,000 ",GREENACRE,NSW,2190,"14/24 Hillcrest Avenue, ",288m² ,Townhouse,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/14-24-hillcrest-avenue-greenacre-nsw-2190-2017137944
+880,Auction ,LIDCOMBE,NSW,2141,"5/129-135 Frances Street, ",,Villa,,,,https://www.domain.com.au/5-129-135-frances-street-lidcombe-nsw-2141-2017137942
+881,Price By Negotiation ,MILTON,NSW,2538,"212 Wilfords Lane, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/212-wilfords-lane-milton-nsw-2538-2017137941
+882,Forthcoming Auction ,ST MARYS,NSW,2760,"5 Chilaw Avenue, ",,House,,,,https://www.domain.com.au/5-chilaw-avenue-st-marys-nsw-2760-2017137913
+883,"$850,000 ",TALLONG,NSW,2579,"Caoura Road, ",,Rural,,,,https://www.domain.com.au/caoura-road-tallong-nsw-2579-2017137769
+884,Auction ,NORTH BONDI,NSW,2026,"61 Murriverie Road, ",,House,,,,https://www.domain.com.au/61-murriverie-road-north-bondi-nsw-2026-2017137907
+885,"Auction, Saturday 7th August ",ST IVES,NSW,2075,"20 Warrimoo Avenue, ","1,233m² ",House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/20-warrimoo-avenue-st-ives-nsw-2075-2017137900
+886,"$625,000 ",PORT MACQUARIE,NSW,2444,"233 The Ruins Way, ",405m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/233-the-ruins-way-port-macquarie-nsw-2444-2017137892
+887,"$250,000 ",GUNNEDAH,NSW,2380,"4 Lawson Avenue, ",782m² ,House,3 Beds,1 Bath,− Parking,https://www.domain.com.au/4-lawson-avenue-gunnedah-nsw-2380-2017137875
+888,Live Stream Sat 17th July 11.00am - 11.15am ,AVALON BEACH,NSW,2107,"12 Kevin Avenue, ",923m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/12-kevin-avenue-avalon-beach-nsw-2107-2017137872
+889,Special Deal Contact Agent | PRIVATE INSPECTIONS ,LIVERPOOL,NSW,2170,"B603/19-25 Bigge Street, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/b603-19-25-bigge-street-liverpool-nsw-2170-2017137861
+890,Special Deal Contact Agent | PRIVATE INSPECTIONS ,LIVERPOOL,NSW,2170,"A908/19-25 Bigge Street, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/a908-19-25-bigge-street-liverpool-nsw-2170-2017137857
+891,"Auction Saturday 14 August, 11am ",ST IVES,NSW,2075,"9 Eden Vale Close, ",,Retirement Living,,,,https://www.domain.com.au/9-eden-vale-close-st-ives-nsw-2075-2017137843
+892,Auction Saturday 7th August 12.45pm ,TURRAMURRA,NSW,2074,"67 Eastern Road, ",,House,,,,https://www.domain.com.au/67-eastern-road-turramurra-nsw-2074-2017137828
+893,"Auction Saturday 7 August, 3pm ",ST IVES,NSW,2075,"3 Bass Place, ",990m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/3-bass-place-st-ives-nsw-2075-2017137827
+894,Auction ,NORTH BONDI,NSW,2026,"5/128 Ramsgate Avenue, ",,Studio,,,,https://www.domain.com.au/5-128-ramsgate-avenue-north-bondi-nsw-2026-2016323303
+895,"$1,325,000 Water Views! ",CAVES BEACH,NSW,2281,"310/55E Caves Beach  Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/310-55e-caves-beach-road-caves-beach-nsw-2281-2017137789
+896,Auction ,BALLINA,NSW,2478,"145 Fox Street, ",648m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/145-fox-street-ballina-nsw-2478-2017137787
+897,Offers Invited ,GREENACRE,NSW,2190,"257 Noble Avenue, ",663m² ,House,4 Beds,2 Baths,4 Parking,https://www.domain.com.au/257-noble-avenue-greenacre-nsw-2190-2017137786
+898,For sale by negotiation ,COOGEE,NSW,2034,"5/96 Coogee Bay Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-96-coogee-bay-road-coogee-nsw-2034-2017137775
+899,AUCTION ,HILLSDALE,NSW,2036,"5/24 Jauncey Place, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-24-jauncey-place-hillsdale-nsw-2036-2017137768
+900,Contact Agent ,ORANGE,NSW,2800,"1335 Pinnacle Road, ",,Rural,,,,https://www.domain.com.au/1335-pinnacle-road-orange-nsw-2800-2017137736
+901,Forthcoming Auction | Unless Sold Prior ,PRESTONS,NSW,2170,"9/14-16 Yerona Street, ",228m² ,House,3 Beds,2 Baths,1 Parking,https://www.domain.com.au/9-14-16-yerona-street-prestons-nsw-2170-2017137762
+902,For Sale ,BOTANY,NSW,2019,"25/16 Morgan Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/25-16-morgan-street-botany-nsw-2019-2017137733
+903,"Auction | Guide $1,300,000 ",CARINGBAH SOUTH,NSW,2229,"2/118 Caringbah Road, ",,Semi-Detached,,,,https://www.domain.com.au/2-118-caringbah-road-caringbah-south-nsw-2229-2017137728
+904,Auction ,CAMMERAY,NSW,2062,"503/564 Miller Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/503-564-miller-street-cammeray-nsw-2062-2017137727
+905,"$319,000 - $339,000 ",EAST MAITLAND,NSW,2323,"5/28 Cumberland  Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-28-cumberland-street-east-maitland-nsw-2323-2017137713
+906,Auction ,RANDWICK,NSW,2031,"152 Rainbow Street, ",531m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/152-rainbow-street-randwick-nsw-2031-2017137643
+907,One of A Kind - What Is It Worth? ,MURRAYS BEACH,NSW,2281,"5 Friarbird Lane, ",879m² ,House,4 Beds,3 Baths,4 Parking,https://www.domain.com.au/5-friarbird-lane-murrays-beach-nsw-2281-2017137645
+908,"Auction - Guide $690,000 - $750,000 ",WARATAH,NSW,2298,"4 Prince Street, ",695m² ,House,4 Beds,1 Bath,2 Parking,https://www.domain.com.au/4-prince-street-waratah-nsw-2298-2017137622
+909,Just Listed ,MINCHINBURY,NSW,2770,"6 Eskdale Street, ",689m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/6-eskdale-street-minchinbury-nsw-2770-2017137606
+910,"Auction Guide $775,000 ",DEE WHY,NSW,2099,"407/910 Pittwater Road, ",112m² ,Apartment / Unit / Flat,1 Bed,1 Bath,1 Parking,https://www.domain.com.au/407-910-pittwater-road-dee-why-nsw-2099-2017137598
+911,"$495,000 ",CHIPPENDALE,NSW,2008,"308/47-49 Chippen St, ",56m² ,Apartment / Unit / Flat,1 Bed,1 Bath,1 Parking,https://www.domain.com.au/308-47-49-chippen-st-chippendale-nsw-2008-2017137574
+912,Forthcoming Auction ,NEW BRIGHTON,NSW,2483,"30 North Head Road, ",655m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/30-north-head-road-new-brighton-nsw-2483-2017137561
+913,"Price Guide $1,150,000 to $1,250,000 ",PORT MACQUARIE,NSW,2444,"24 Montague Street, ",831m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/24-montague-street-port-macquarie-nsw-2444-2017137559
+914,"FOR SALE $1,199,000 ",EAST HILLS,NSW,2213,"42 Harcourt Avenue, ",,Duplex,,,,https://www.domain.com.au/42-harcourt-avenue-east-hills-nsw-2213-2017137549
+915,Auction ,NORTH BONDI,NSW,2026,"12/98A Blair Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/12-98a-blair-street-north-bondi-nsw-2026-2017137546
+916,FOR SALE ,WOLLI CREEK,NSW,2205,"204/16-20 Lusty Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/204-16-20-lusty-street-wolli-creek-nsw-2205-2017137533
+917,Contact Agent For Private Appointment ,MAROUBRA,NSW,2035,"710/140 Maroubra Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/710-140-maroubra-road-maroubra-nsw-2035-2017137529
+918,"Guide $850,000 ",BELMONT NORTH,NSW,2280,"53 Harrison Street, ",,House,,,,https://www.domain.com.au/53-harrison-street-belmont-north-nsw-2280-2017137512
+919,"Guide $1,650,000 ",GREENACRE,NSW,2190,"36 Chiswick Road, ",708m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/36-chiswick-road-greenacre-nsw-2190-2017137511
+920,"AUCTION GUIDE $299,000 ",PATERSON,NSW,2421,"33 Railway  Street, ","1,400m² ",House,1 Bed,1 Bath,10 Parking,https://www.domain.com.au/33-railway-street-paterson-nsw-2421-2017137507
+921,"$879,990 ",GOOGONG,NSW,2620,"16 Rosa Street, ",437m² ,House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/16-rosa-street-googong-nsw-2620-2017137492
+922,Expressions Of Interest ,QUAKERS HILL,NSW,2763,"27 Elwood Crescent, ",550m² ,House,4 Beds,1 Bath,1 Parking,https://www.domain.com.au/27-elwood-crescent-quakers-hill-nsw-2763-2017137478
+923,Offers Now or Auction ,PEAKHURST HEIGHTS,NSW,2210,"25 Orana Crescent, ",,House,,,,https://www.domain.com.au/25-orana-crescent-peakhurst-heights-nsw-2210-2017137451
+924,Auction ,DOUBLE BAY,NSW,2028,"51/10-12 Manning Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/51-10-12-manning-road-double-bay-nsw-2028-2017137445
+925,View by Appointment ,OLD TOONGABBIE,NSW,2146,"10/241 Old Windsor Road, ",289m² ,Townhouse,4 Beds,3 Baths,1 Parking,https://www.domain.com.au/10-241-old-windsor-road-old-toongabbie-nsw-2146-2017137442
+926,"AUCTION, Contact Agent ",LANE COVE,NSW,2066,"16/686 Mowbray Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/16-686-mowbray-road-lane-cove-nsw-2066-2017137433
+927,"$349,000 - $379,000 ",MERIMBULA,NSW,2548,"9/1 - 3 Ocean Drive, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/9-1-3-ocean-drive-merimbula-nsw-2548-2017137426
+928,Auction 7 August ,DOUBLE BAY,NSW,2028,"12/508-510 New South Head Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/12-508-510-new-south-head-road-double-bay-nsw-2028-2017137420
+929,Contact Agent ,MIRANDA,NSW,2228,"G02/42 Pinnacle Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/g02-42-pinnacle-street-miranda-nsw-2228-2017137417
+930,Auction 14 Aug 2021 ,BLACKTOWN,NSW,2148,"22 Eltham Street, ",566m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/22-eltham-street-blacktown-nsw-2148-2017137411
+931,Auction ,DOUBLE BAY,NSW,2028,"35/53 Ocean Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/35-53-ocean-avenue-double-bay-nsw-2028-2017137360
+932,Contact Agent ,KNOCKROW,NSW,2479,"54 Carney Place, ","3,867m² ",House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/54-carney-place-knockrow-nsw-2479-2017137357
+933,"$1,150,000 - $1,250,000 ",BILLINUDGEL,NSW,2483,"157 BILLINUDGEL ROAD, ","1,582m² ",House,4 Beds,3 Baths,4 Parking,https://www.domain.com.au/157-billinudgel-road-billinudgel-nsw-2483-2017137355
+934,Auction - 7th August ,REDFERN,NSW,2016,"32/128 George Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/32-128-george-street-redfern-nsw-2016-2017137330
+935,"$780,000 - $840,000 ",KATOOMBA,NSW,2780,"5 Wilson Street, ",572m² ,House,3 Beds,1 Bath,1 Parking,https://www.domain.com.au/5-wilson-street-katoomba-nsw-2780-2017137321
+936,AUCTION - Price on request ,CROWS NEST,NSW,2065,"Unit 4/86 Burlington St, ",,Townhouse,,,,https://www.domain.com.au/unit-4-86-burlington-st-crows-nest-nsw-2065-2017137314
+937,"Auction Guide $1,000,000 ",DEE WHY,NSW,2099,"5/7 The Strand, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-7-the-strand-dee-why-nsw-2099-2017137299
+938,Contact Agent For Private Appointment ,KINGSFORD,NSW,2032,"5/117 Bunnerong Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-117-bunnerong-road-kingsford-nsw-2032-2017137287
+939,Contact Agent ,CARRINGTON,NSW,2294,"8/124 Young Street, ",,Townhouse,,,,https://www.domain.com.au/8-124-young-street-carrington-nsw-2294-2017137281
+940,Auction ,BALGOWNIE,NSW,2519,"2 New Mount Pleasant Road, ",714m² ,House,3 Beds,1 Bath,− Parking,https://www.domain.com.au/2-new-mount-pleasant-road-balgownie-nsw-2519-2017137279
+941,"$470,000-$500,000 ",WOODBERRY,NSW,2322,"29 Curlew Crescent, ",462m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/29-curlew-crescent-woodberry-nsw-2322-2017137277
+942,FOR SALE BY OFFERS ,OATLEY,NSW,2223,"5A Algernon Street, ",505m² ,House,5 Beds,4 Baths,2 Parking,https://www.domain.com.au/5a-algernon-street-oatley-nsw-2223-2017137271
+943,Delightful Family Abode ,QUAKERS HILL,NSW,2763,"6 Coling Place, ",654m² ,House,5 Beds,2 Baths,5 Parking,https://www.domain.com.au/6-coling-place-quakers-hill-nsw-2763-2017137266
+944,Contact Agent ,GLEN ALPINE,NSW,2560,"6 Hythe Place, ",902m² ,House,4 Beds,4 Baths,3 Parking,https://www.domain.com.au/6-hythe-place-glen-alpine-nsw-2560-2017137261
+945,Contact Agent ,LANE COVE,NSW,2066,"28/88-96 Helen Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/28-88-96-helen-street-lane-cove-nsw-2066-2017137260
+946,Auction - Friday 3rd September 2021 at 10:30am ,EUGOWRA,NSW,2806,"1386 Mackeys Creek Road, ",,Rural,,,,https://www.domain.com.au/1386-mackeys-creek-road-eugowra-nsw-2806-2017137240
+947,For Sale I By Appointment ,RHODES,NSW,2138,"505/1 Jean Wailes Avenue, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/505-1-jean-wailes-avenue-rhodes-nsw-2138-2017137219
+948,Video 'walk-through' Available ,MONA VALE,NSW,2103,"63 Samuel  Street, ",721m² ,House,3 Beds,2 Baths,2 Parking,https://www.domain.com.au/63-samuel-street-mona-vale-nsw-2103-2017137212
+949,"$1,100,000 - Friendly Auction ",ADAMSTOWN,NSW,2289,"7A Hall Street, ",342m² ,House,4 Beds,2 Baths,3 Parking,https://www.domain.com.au/7a-hall-street-adamstown-nsw-2289-2017137209
+950,For Sale | Contact Agent ,KOGARAH,NSW,2217,"5/10-14 Warialda Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/5-10-14-warialda-street-kogarah-nsw-2217-2017137206
+951,"$1,250,000 ",MEDWAY,NSW,2577,"2 Railway Parade, ","1,555m² ",House,4 Beds,2 Baths,2 Parking,https://www.domain.com.au/2-railway-parade-medway-nsw-2577-2017137191
+952,Contact Agent ,BALGOWLAH HEIGHTS,NSW,2093,"22 Dobroyd Road, ",639m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/22-dobroyd-road-balgowlah-heights-nsw-2093-2017137163
+953,Contact Agent ,ERMINGTON,NSW,2115,"20B Monroe Street, ",420m² ,House,4 Beds,3 Baths,3 Parking,https://www.domain.com.au/20b-monroe-street-ermington-nsw-2115-2017137159
+954,"Auction Guide $1,750,000 ",ERSKINEVILLE,NSW,2043,"46 Malcolm Street, ",,House,,,,https://www.domain.com.au/46-malcolm-street-erskineville-nsw-2043-2017137157
+955,Contact Agent ,PETERSHAM,NSW,2049,"22B Allans Avenue, ",188m² ,Semi-Detached,3 Beds,2 Baths,− Parking,https://www.domain.com.au/22b-allans-avenue-petersham-nsw-2049-2017137153
+956,Auction ,MARRICKVILLE,NSW,2204,"303/18 Lilydale Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/303-18-lilydale-street-marrickville-nsw-2204-2017137146
+957,Contact Agent ,KURRI KURRI,NSW,2327,"2/68a Brunker Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/2-68a-brunker-street-kurri-kurri-nsw-2327-2017137135
+958,$620K TO $650K ,TREGEAR,NSW,2770,"24 Kista Dan Avenue, ",569m² ,House,3 Beds,1 Bath,4 Parking,https://www.domain.com.au/24-kista-dan-avenue-tregear-nsw-2770-2017137108
+959,Contact Agent ,SCHOFIELDS,NSW,2762,"115/75B Grima Street, ",,New Apartments / Off the Plan,,,,https://www.domain.com.au/115-75b-grima-street-schofields-nsw-2762-2017137110
+960,"$510,000 to $560,000 ",LIVERPOOL,NSW,2170,"1306/6A Atkinson Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1306-6a-atkinson-street-liverpool-nsw-2170-2017137095
+961,For Sale ,SUTHERLAND,NSW,2232,"10/58 Belmont Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/10-58-belmont-street-sutherland-nsw-2232-2017136947
+962,Contact Agent ,EPPING,NSW,2121,"610/76 Rawson Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/610-76-rawson-street-epping-nsw-2121-2017137085
+963,Expressions of Interest ,HORNSBY HEIGHTS,NSW,2077,"9 Mullion Close, ",740m² ,House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/9-mullion-close-hornsby-heights-nsw-2077-2017137067
+964,"$680,000 ",NEUTRAL BAY,NSW,2089,"18/64 Ben Boyd Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/18-64-ben-boyd-road-neutral-bay-nsw-2089-2017137057
+965,"$370,000 to $390,000 ",FAIRFIELD,NSW,2165,"7/84 Sackville Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/7-84-sackville-street-fairfield-nsw-2165-2017137055
+966,"$315,000 to $340,000 ",NARRABRI,NSW,2390,"U1, U2, U3/84 Fraser Street, ",999m² ,Block of Units,6 Beds,3 Baths,4 Parking,https://www.domain.com.au/u1-u2-u3-84-fraser-street-narrabri-nsw-2390-2017137041
+967,Auction | MUST CALL TO INSPECT 1 ON 1 ,DULWICH HILL,NSW,2203,"1/36 Myra Road, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/1-36-myra-road-dulwich-hill-nsw-2203-2017137033
+968,Contact Agent ,HURSTVILLE,NSW,2220,"9/98 Woniora Road, ",,Townhouse,,,,https://www.domain.com.au/9-98-woniora-road-hurstville-nsw-2220-2017137018
+969,Expressions of Interest ,BOGANGAR,NSW,2488,"1 Clothiers Creek Road, ",,Rural,,,,https://www.domain.com.au/1-clothiers-creek-road-bogangar-nsw-2488-2017136998
+970,Whisper Quiet & Park Facing ,BAULKHAM HILLS,NSW,2153,"20 Gleeson Avenue, ",695m² ,House,4 Beds,2 Baths,1 Parking,https://www.domain.com.au/20-gleeson-avenue-baulkham-hills-nsw-2153-2017136988
+971,Auction ,GOULBURN,NSW,2580,"1437 Gurrundah Road, ",,Rural,,,,https://www.domain.com.au/1437-gurrundah-road-goulburn-nsw-2580-2017136984
+972,Auction Sat 14th Aug 12:00pm ,WAHROONGA,NSW,2076,"32 Scullin Place, ","1,085m² ",House,5 Beds,3 Baths,2 Parking,https://www.domain.com.au/32-scullin-place-wahroonga-nsw-2076-2017136980
+973,Auction | Mele Gong ,HURSTVILLE,NSW,2220,"1/8 Australia Street, ",486m² ,Duplex,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/1-8-australia-street-hurstville-nsw-2220-2017136972
+974,"$1,450,000 - $1,500,000 ",GOOGONG,NSW,2620,"16 Sunset Place, ",600m² ,House,5 Beds,4 Baths,4 Parking,https://www.domain.com.au/16-sunset-place-googong-nsw-2620-2017136948
+975,"$1,750,000 ",ORANGE,NSW,2800,"16 Old Forbes Road, ",,Acreage / Semi-Rural,,,,https://www.domain.com.au/16-old-forbes-road-orange-nsw-2800-2016155603
+976,"$675,000 - $725,000 ",CRANEBROOK,NSW,2749,"18 Woodgate Crescent, ",633m² ,House,3 Beds,1 Bath,2 Parking,https://www.domain.com.au/18-woodgate-crescent-cranebrook-nsw-2749-2017136928
+977,Expressions of Interest ,ROUND MOUNTAIN,NSW,2484,"21 Round Mountain Road, ",,Rural,,,,https://www.domain.com.au/21-round-mountain-road-round-mountain-nsw-2484-2017136917
+978,"$185,000 - $195,000 ",QUEANBEYAN,NSW,2620,"6/3 Charles Street, ",,Apartment / Unit / Flat,,,,https://www.domain.com.au/6-3-charles-street-queanbeyan-nsw-2620-2017031872
+979,"Auction Saturday 7 August, 10am ",ROSEVILLE,NSW,2069,"7 Thomas Avenue, ",790m² ,House,4 Beds,3 Baths,2 Parking,https://www.domain.com.au/7-thomas-avenue-roseville-nsw-2069-2017136891
